@@ -1,0 +1,7 @@
+---
+layout: page
+title: About me
+subtitle: 
+---
+
+I've been a math professor at Moraine Valley Community College since 2013. Throughout that time, I've taught a mixture of mathematics and statistics classes. If you find me on campus, then I'm likely making tea in my office or hanging out with students in one of our classrooms. If you find me at home, then I'm likely playing games with my kids, watching basketball, or playing video games. 

@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <channel>
+    
+    <title>Peter Keep</title>
+    
+    
+    <description>Peter Keep&apos;s personal website and blog.</description>
+    
+    <link>http://localhost:4000/</link>
+    <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml" />
+    
+    
+      <item>
+        <title>Introduction</title>
+        
+        <dc:creator><![CDATA[ Peter Keep ]]></dc:creator>
+        
+        <description>
+          What am I even doing here, and why does this exist? - 
+          It’s 2026, and I’m 20 years behind in starting a blog! So what am I doing with this blog and why does it exist?
+
+
+        </description>
+        <pubDate>Fri, 02 Jan 2026 00:00:00 -0600</pubDate>
+        <link>http://localhost:4000/2026-01-02-introduction/</link>
+        <guid isPermaLink="true">http://localhost:4000/2026-01-02-introduction/</guid>
+      </item>
+    
+  </channel>
+</rss>
