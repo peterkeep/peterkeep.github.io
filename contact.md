@@ -35,12 +35,6 @@ subtitle: Fill out the form below to send me a message.
   box-sizing: border-box;
 }
 
-* {
-  border: 0;
-  margin: 0;
-  padding: 0;
-}
-
 body {
   -webkit-font-smoothing: antialiased;
   font-family: var(--font-family-body);
@@ -362,8 +356,6 @@ fieldset {
 </style>
 </head>
 
-
-
 I love to talk about:
 * Math
 * Education
@@ -378,31 +370,31 @@ You can find a link to my social media account on bluesky at the bottom of this 
 
 
 <form
-          action="https://formspree.io/f/mwpvzbkl"
-          class="fs-form"
-          target="_top"
-          method="POST"
-        >
-          <div class="fs-field">
-            <label class="fs-label" for="name">Your Name</label>
-            <input class="fs-input" id="name" name="name" required />
-          </div>
-          <div class="fs-field">
-            <label class="fs-label" for="email">Email</label>
-            <input class="fs-input" id="email" name="email" required />
-          </div>
-          <div class="fs-field">
-            <label class="fs-label" for="message">Message</label>
-            <textarea
-              class="fs-textarea"
-              id="message"
-              name="message"
-              required
-              
-            ></textarea>
-          </div>
-          <div class="fs-button-group">
-            <button class="fs-button" type="submit">Submit</button>
-          </div>
-        </form>
+  action="https://formspree.io/f/mwpvzbkl"
+  class="fs-form"
+  target="_top"
+  method="POST"
+>
+  <div class="fs-field">
+    <label class="fs-label" for="name">Your Name</label>
+    <input class="fs-input" id="name" name="name" required />
+  </div>
+  <div class="fs-field">
+    <label class="fs-label" for="email">Email</label>
+    <input class="fs-input" id="email" name="email" required />
+  </div>
+  <div class="fs-field">
+    <label class="fs-label" for="message">Message</label>
+    <textarea
+      class="fs-textarea"
+      id="message"
+      name="message"
+      required
+      
+    ></textarea>
+  </div>
+  <div class="fs-button-group">
+    <button class="fs-button" type="submit">Submit</button>
+  </div>
+</form>
 
