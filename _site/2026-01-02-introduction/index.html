@@ -160,14 +160,11 @@
             <a class="nav-link" href="/contact">Contact</a>
           </li>
           <li class="nav-item">
-            <a class="nav-link" href="https://www.discovercalculus.com">Discover Calculus Textbook</a>
+            <a class="nav-link" href="/tags">Tags</a>
           </li>
-        <li class="nav-item">
-          <a class="nav-link" id="nav-search-link" href="#" title="Search">
-            <span id="nav-search-icon" class="fa fa-search"></span>
-            <span id="nav-search-text">Search</span>
-          </a>
-        </li></ul>
+          <li class="nav-item">
+            <a class="nav-link" href="https://www.discovercalculus.com">Discover Calculus</a>
+          </li></ul>
   </div>
 
   
@@ -183,24 +180,6 @@
   
 
 </nav>
-
-
-
-<div id="beautifuljekyll-search-overlay">
-
-  <div id="nav-search-exit" title="Exit search">✕</div>
-  <input type="text" id="nav-search-input" placeholder="Search">
-  <ul id="search-results-container"></ul>
-  
-  <script src="https://unpkg.com/simple-jekyll-search@latest/dest/simple-jekyll-search.min.js"></script>
-  <script>
-    SimpleJekyllSearch({
-      searchInput: document.getElementById('nav-search-input'),
-      resultsContainer: document.getElementById('search-results-container'),
-      json: '/assets/data/searchcorpus.json' 
-    });
-  </script>
-</div>
 
 
 
@@ -298,7 +277,8 @@
 
 
 <section id = "social-share-section">
-  <span class="sr-only">Share: </span>
+  <div class="blog-tags">
+  <span style="font-size: 100%">Share: </span>
 
   
 
@@ -309,9 +289,16 @@
   
 
   
+    <a href="https://bsky.app/intent/compose?text=I'm sharing this post from @mathprofpeter.bsky.social%0Ahttp%3A%2F%2Flocalhost%3A4000%2F2026-01-02-introduction%2F"
+      class="btn btn-social-icon btn-bluesky" title="Share on BlueSky">
+      <span class="fab fa-fw fa-bluesky" aria-hidden="true" style="font-size:100%"></span>
+      <span class="sr-only">BlueSky</span>
+    </a>
+  
 
+  
+    </div>
 </section>
-
 
 
       

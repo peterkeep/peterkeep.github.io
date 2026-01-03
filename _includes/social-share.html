@@ -8,7 +8,8 @@
 
 {% if any-share-links %}
 <section id = "social-share-section">
-  <span class="sr-only">Share: </span>
+  <div class="blog-tags">
+  <span style="font-size: 100%">Share: </span>
 
   {% if site.share-links-active.twitter %}
     <a href="https://twitter.com/intent/tweet?text={{ page.title | strip_html | url_encode }}&url={{ page.url | absolute_url | url_encode }}"
@@ -42,6 +43,14 @@
     </a>
   {% endif %}
 
+  {% if site.share-links-active.bluesky %}
+    <a href="https://bsky.app/intent/compose?text=I'm sharing this post from @mathprofpeter.bsky.social%0A{{ page.url | absolute_url | url_encode }}"
+      class="btn btn-social-icon btn-bluesky" title="Share on BlueSky">
+      <span class="fab fa-fw fa-bluesky" aria-hidden="true" style="font-size:100%"></span>
+      <span class="sr-only">BlueSky</span>
+    </a>
+  {% endif %}
+
   {% if site.share-links-active.reddit %}
     <a href="https://www.reddit.com/submit?url={{ page.url | absolute_url | url_encode }}"
       class="btn btn-social-icon btn-reddit" title="Share on Reddit">
@@ -49,7 +58,7 @@
       <span class="sr-only">Reddit</span>
     </a>
   {% endif %}
-
+    </div>
 </section>
 
 {% endif %}
