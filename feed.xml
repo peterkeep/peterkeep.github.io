@@ -22,10 +22,10 @@ layout: null
         <dc:creator><![CDATA[ {{ site.author | xml_escape }} ]]></dc:creator>
         {% endif %}
         <description>
-          {% if post.subtitle %}{{ post.subtitle | strip_html | xml_escape }} - {% endif %}
+          {% if post.subtitle %}{{ post.subtitle | strip_html | xml_escape }} ---- {% endif %}
           {{ post.content | strip_html | xml_escape | truncatewords: excerpt_length }}
         </description>
-        <pubDate>{{ post.date | date: "%a, %d %b %Y %H:%M:%S %z" }}</pubDate>
+        <pubDate>{{ post.date | date: "%a, %d %b %Y" }}</pubDate>
         <link>{{ post.url | absolute_url }}</link>
         <guid isPermaLink="true">{{ post.url | absolute_url }}</guid>
       </item>
