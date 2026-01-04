@@ -4,6 +4,25 @@ layout: base
 
 {% include header.html type="post" %}
 
+<style>
+  .subscribe a {
+  font-family: var(--header-font);
+  font-size: 0.9375rem;
+  margin: 1.875rem 0;
+  color: var(--text-col);
+  opacity: 0.8;
+  color: var(--text-col);
+  border: 1px solid;
+  border-color: var(--text-col);
+  padding: 5px;
+  text-decoration: none;
+  font-weight: bold; color: rgb(255, 255, 255); font-size: 16px; text-align: center; background-color: rgb(0, 0, 0); text-transform: none !important;
+  justify-content: center !important;
+  border-radius: 6px !important;
+  box-shadow: 0 5px 25px rgba(34, 60, 47, 0.25) !important;
+}
+</style>
+
 <main class="{% if page.full-width %} container-fluid {% else %} container-md {% endif %}">
   <div class="row">
     <div class="{% if page.full-width %} col {% else %} col-xl-8 offset-xl-2 col-lg-10 offset-lg-1 {% endif %}">
