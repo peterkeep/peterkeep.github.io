@@ -43,6 +43,8 @@ layout: base
         {{ content }}
       </div>
 
+      
+
       {% if page.tags.size > 0 %}
         <div class="blog-tags">
           <span>Tags:</span>
@@ -63,6 +65,10 @@ layout: base
       {% if page.social-share %}
         {% include social-share.html %}
       {% endif %}
+
+      <div class="subscribe">
+        <a href="https://follow.it/peter-keep?leanpub" target="_blank"><i class="fas fa-inbox"></i>&nbsp;Subscribe</a>
+      </div>
 
       <ul class="pagination blog-pager">
         {% if page.previous.url %}
