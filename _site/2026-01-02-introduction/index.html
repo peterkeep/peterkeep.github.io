@@ -226,21 +226,23 @@
 
 <style>
   .subscribe a {
-  font-family: var(--header-font);
-  font-size: 0.9375rem;
-  margin: 1.875rem 0;
-  color: var(--text-col);
-  opacity: 0.8;
-  color: var(--text-col);
-  border: 1px solid;
-  border-color: var(--text-col);
-  padding: 5px;
-  text-decoration: none;
-  font-weight: bold; color: rgb(255, 255, 255); font-size: 16px; text-align: center; background-color: rgb(0, 0, 0); text-transform: none !important;
-  justify-content: center !important;
-  border-radius: 6px !important;
-  box-shadow: 0 5px 25px rgba(34, 60, 47, 0.25) !important;
-}
+    font-family: var(--header-font);
+    font-size: 0.9375rem;
+    margin: 1.875rem 0;
+    opacity: 0.8;
+    color: var(--text-col);
+    border: 1px solid;
+    border-color: var(--text-col);
+    padding: 5px;
+    text-decoration: none;
+    font-weight: bold; color: rgb(255, 255, 255); font-size: 16px; text-align: center; background-color: rgb(0, 0, 0); text-transform: none !important;
+    justify-content: center !important;
+    border-radius: 6px !important;
+    box-shadow: 0 5px 25px rgba(34, 60, 47, 0.25) !important;
+  }
+  .subscribe a:hover{
+    opacity: 1;
+  }
 </style>
 
 <main class=" container-md ">
@@ -292,14 +294,36 @@
       
 
       
-        <!-- Check if any share-links are active -->
+        <style>
+  .subscribe a{
+    font-family: var(--header-font);
+    font-size: 0.9375rem;
+    margin: 1.875rem 0;
+    opacity: 1;
+    color: var(--text-col);
+    border: 1px solid;
+    border-color: var(--text-col);
+    padding: 5px;
+    text-decoration: none;
+    font-weight: bold; color: rgb(255, 255, 255); font-size: 16px; text-align: center; background-color: rgb(0, 0, 0); text-transform: none !important;
+    justify-content: center !important;
+    border-radius: 6px !important;
+    box-shadow: 0 5px 25px rgba(34, 60, 47, 0.25) !important;
+  }
+
+  .subscribe a:hover{
+    opacity: 0.8;
+  }
+</style>
+
+<!-- Check if any share-links are active -->
 
 
 
 
 <section id = "social-share-section">
-  <div class="blog-tags">
-  <span style="font-size: 100%">Share: </span>
+  <div>
+  <!-- <span style="font-size: 100%">Share: </span> -->
 
   
 
@@ -310,11 +334,13 @@
   
 
   
-    <a href="https://bsky.app/intent/compose?text=I'm sharing this post from @mathprofpeter.bsky.social%0Ahttp%3A%2F%2Flocalhost%3A4000%2F2026-01-02-introduction%2F"
-      class="btn btn-social-icon btn-bluesky" title="Share on BlueSky">
-      <span class="fab fa-fw fa-bluesky" aria-hidden="true" style="font-size:100%"></span>
-      <span class="sr-only">BlueSky</span>
+    <span class="subscribe"><a href="https://bsky.app/intent/compose?text=I'm sharing this post from @mathprofpeter.bsky.social%0Ahttp%3A%2F%2Flocalhost%3A4000%2F2026-01-02-introduction%2F"
+      class="subscribe" title="Share on BlueSky">
+      <span class="fab fa-fw fa-bluesky" aria-hidden="true" style="font-size:100%; color:#41ADFF; background-color:black;"></span>
+      <span class="subscribe">Share on BlueSky</span>
+      <span class="sr-only">BlueSky</span> 
     </a>
+    </span>
   
 
   
@@ -325,7 +351,7 @@
       
 
       <div class="subscribe">
-        <a href="https://follow.it/peter-keep?leanpub" target="_blank"><i class="fas fa-inbox"></i>&nbsp;Subscribe</a>
+        <a href="https://follow.it/peter-keep?leanpub" target="_blank" title="Subscribe"><i class="fas fa-inbox"></i>&nbsp;Subscribe by Email</a>
       </div>
 
       <ul class="pagination blog-pager">

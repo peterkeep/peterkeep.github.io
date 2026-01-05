@@ -1,3 +1,25 @@
+<style>
+  .subscribe a{
+    font-family: var(--header-font);
+    font-size: 0.9375rem;
+    margin: 1.875rem 0;
+    opacity: 1;
+    color: var(--text-col);
+    border: 1px solid;
+    border-color: var(--text-col);
+    padding: 5px;
+    text-decoration: none;
+    font-weight: bold; color: rgb(255, 255, 255); font-size: 16px; text-align: center; background-color: rgb(0, 0, 0); text-transform: none !important;
+    justify-content: center !important;
+    border-radius: 6px !important;
+    box-shadow: 0 5px 25px rgba(34, 60, 47, 0.25) !important;
+  }
+
+  .subscribe a:hover{
+    opacity: 0.8;
+  }
+</style>
+
 <!-- Check if any share-links are active -->
 {% assign any-share-links = false %}
 {% for links in site.share-links-active %}
@@ -8,8 +30,8 @@
 
 {% if any-share-links %}
 <section id = "social-share-section">
-  <div class="blog-tags">
-  <span style="font-size: 100%">Share: </span>
+  <div>
+  <!-- <span style="font-size: 100%">Share: </span> -->
 
   {% if site.share-links-active.twitter %}
     <a href="https://twitter.com/intent/tweet?text={{ page.title | strip_html | url_encode }}&url={{ page.url | absolute_url | url_encode }}"
@@ -44,11 +66,13 @@
   {% endif %}
 
   {% if site.share-links-active.bluesky %}
-    <a href="https://bsky.app/intent/compose?text=I'm sharing this post from @mathprofpeter.bsky.social%0A{{ page.url | absolute_url | url_encode }}"
-      class="btn btn-social-icon btn-bluesky" title="Share on BlueSky">
-      <span class="fab fa-fw fa-bluesky" aria-hidden="true" style="font-size:100%"></span>
-      <span class="sr-only">BlueSky</span>
+    <span class="subscribe"><a href="https://bsky.app/intent/compose?text=I'm sharing this post from @mathprofpeter.bsky.social%0A{{ page.url | absolute_url | url_encode }}"
+      class="subscribe" title="Share on BlueSky">
+      <span class="fab fa-fw fa-bluesky" aria-hidden="true" style="font-size:100%; color:#41ADFF; background-color:black;"></span>
+      <span class="subscribe">Share on BlueSky</span>
+      <span class="sr-only">BlueSky</span> 
     </a>
+    </span>
   {% endif %}
 
   {% if site.share-links-active.reddit %}
