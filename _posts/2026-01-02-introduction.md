@@ -31,4 +31,6 @@ So this blog is a small way for me to take a subset of the things I like to talk
 
 I have some ideas of making this a small space where I can record some of my thoughts, talk about some teaching things that I'm thinking of at the moment, and reflect on some of the kinds of experiences that come up in the education industry, both in and out of the classroom. In that, I am hopeful that I can wrest some small portion of the internet away from the control of 5 \\(\left(\stackrel{?}{\pm} 2\right)\\) of the worst human beings you can imagine. But I am also hopeful that I can preserve some of my ideas and thoughts for myself to reference in the future.
 
+## References
+
 [^1]: [Instructure and OpenAI Announce Global Partnership to Embed AI Learning Experiences within Canvas](https://www.instructure.com/press-release/instructure-and-openai-announce-global-partnership-embed-ai-learning-experiences)
