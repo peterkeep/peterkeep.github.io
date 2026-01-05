@@ -15,13 +15,13 @@ subtitle: Fill out the form below to send me a message.
 :root {
   --color-background: #E9DCDD;
   --color-background-alt: #E9DCDD;
-  --color-border-active: black;
-  --color-border-default: grey;
+  --color-border-active: #404040;
+  --color-border-default: #404040;
   --color-highlight: #fdcf4c;
-  --color-primary: black;
-  --color-primary-active: grey;
-  --color-text-default: #000;
-  --color-text-muted: #000;
+  --color-primary: #404040;
+  --color-primary-active: #404040;
+  --color-text-default: #404040;
+  --color-text-muted: #404040;
 
   --font-family-body: Montserrat,sans-serif;
   --font-family-display: Montserrat,sans-serif;
@@ -146,12 +146,11 @@ fieldset {
 }
 
 .fs-button:hover {
-  background-color: var(--color-primary-active);
+  opacity:0.9;
 }
 
 .fs-button:focus-visible {
-  background-color: var(--color-primary-active);
-  outline: 4px solid var(--color-highlight);
+  opacity:0.9;
 }
 
 .fs-input,
