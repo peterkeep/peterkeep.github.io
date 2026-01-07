@@ -12,13 +12,27 @@
     
     
       <item>
+        <title>OER as Resistance</title>
+        
+        <dc:creator><![CDATA[ Peter Keep ]]></dc:creator>
+        
+        <description>
+          
+          This summer, I presented at an Open Educational Resources conference in my state about a project I’ve been working on: an open source, open copyright textbook for the typical single variable calculus sequence (Calculus I and Calculus II). This post isn’t about my project. It’s about what happened at that conference. I presented late in the conference, which meant that I had a day and a half of listening to other people talk about OER, the services that they offer on their campus, the ideas that they have for sustaining OER infrastructure in our state, or the incredible projects that they’ve built. And there was an obvious, though unofficial, theme. Almost every presentation that I saw had some metric to calculate cost savings: savings for their school, savings for their department, savings for their students, etc. Something about seeing this brought up over and over picked away at me, until it was my turn to give my talk. So, near the beginning of my talk, I told the truth. “OER has never been about affordability or cost savings for me.” After I told that truth, I said, “OER has always been about academic freedom for me.” I talked about the...
+        </description>
+        <pubDate>Wed, 07 Jan 2026</pubDate>
+        <link>http://localhost:4000/2026-01-07-OER-as-resistance/</link>
+        <guid isPermaLink="true">http://localhost:4000/2026-01-07-OER-as-resistance/</guid>
+      </item>
+    
+      <item>
         <title>Introduction</title>
         
         <dc:creator><![CDATA[ Peter Keep ]]></dc:creator>
         
         <description>
           What am I even doing here, and why does this exist? ---- 
-          It’s 2026, and I’m 20 years behind in starting a blog! So what am I doing with this blog and why does it exist? It really comes down to one truth about me and one truth about the world. I like talking about math and education and math education I...
+          It’s 2026, and I’m 20 years behind in starting a blog! So what am I doing with this blog and why does it exist? It really comes down to one truth about me and one truth about the world. I like talking about math and education and math education I mostly have been talking about these topics in three contexts: Online, with my friends. In-person, with my friends. In class, with my students. These three contexts have worked out really well: I love my friends, I love my students, and I love hanging around with both (online and in-person)! But something has been happening with the online spaces that I use to talk to both students and friends. The world (and the Internet, especially) is easily manipulated by awful (powerful) people These spaces have essentially always been controlled by big-tech and ed-tech companies, but recently that control has been both much more noticeable and much more hostile. Social media platforms are being tuned to algorithmically induce rage in its userbase. Generative AI tools are flooding the internet with slop. Learning Management Software is being filled with bloat. So this blog is a small way for me to take a subset...
         </description>
         <pubDate>Fri, 02 Jan 2026</pubDate>
         <link>http://localhost:4000/2026-01-02-introduction/</link>
