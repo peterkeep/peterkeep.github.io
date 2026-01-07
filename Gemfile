@@ -1,6 +1,6 @@
 # frozen_string_literal: true
 
-source "http://rubygems.org"
+source "https://rubygems.org"
 
 # Windows and JRuby does not include zoneinfo files, so bundle the tzinfo-data gem
 # and associated library.
