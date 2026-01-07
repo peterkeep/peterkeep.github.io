@@ -42,6 +42,14 @@
 }, 
  
 { 
+"title"    : "Syllabi", 
+"desc"     : "Syllabi", 
+"category" : "page", 
+"url"      : "/syllabi/", 
+"date"     : "January 1, 1970" 
+}, 
+ 
+{ 
 "title"    : "Tag Index", 
 "desc"     : "Tag Index", 
 "category" : "page", 
