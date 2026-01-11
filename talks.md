@@ -19,6 +19,8 @@ Below, you'll find some information about some of my interests, as well as prese
 
 * **OER Bootcamp Speaker, Day 1** (Upcoming)\\
 *FLVC OER Bootcamp*, March 2026
+* **Critical Thinking in the Classroom**\\
+*Moraine Valley Community College, New Faculty Orientation*, December 2023
 * **Standards Based Grading: Let's Build Together!**\\
 Peter Keep, Matthew Lee\\
 *IMACC Summer Workshop*, July 2023
@@ -41,8 +43,6 @@ Peter Keep, Keith Nabb, Michael Caparula\\
 * **How To Be Wrong: The Power of Thinking about Mathematical Mistakes**\\
 *AMATYC Conference*, November 2024\\
 *IMACC Conference*, April 2024
-* **Critical Thinking in the Classroom**\\
-*Moraine Valley Community College, New Faculty Orientation*, December 2023
 * **Pointless Grading**\\
 *AMATYC Conference*, November 2023\\
 *IMACC Conference*, March 2023\\
