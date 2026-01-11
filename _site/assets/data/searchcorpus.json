@@ -71,6 +71,14 @@
 "category" : "page", 
 "url"      : "/teaching/", 
 "date"     : "January 1, 1970" 
+}, 
+ 
+{ 
+"title"    : "Peter Keep", 
+"desc"     : "Peter Keep", 
+"category" : "page", 
+"url"      : "/page2/", 
+"date"     : "January 1, 1970" 
 } 
  
 ]
