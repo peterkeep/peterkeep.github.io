@@ -1,6 +1,14 @@
 [ 
  
 { 
+"title"    : "Organizing my Syllabus", 
+"desc"     : "Organizing my Syllabus", 
+"category" : "personal, teaching", 
+"url"      : "/2026-01-14-organizing-my-syllabus/", 
+"date"     : "January 14, 2026" 
+}, 
+ 
+{ 
 "title"    : "OER as Resistance", 
 "desc"     : "OER as Resistance", 
 "category" : "AI, conference, OER", 
@@ -70,14 +78,6 @@
 "desc"     : "Teaching", 
 "category" : "page", 
 "url"      : "/teaching/", 
-"date"     : "January 1, 1970" 
-}, 
- 
-{ 
-"title"    : "Peter Keep", 
-"desc"     : "Peter Keep", 
-"category" : "page", 
-"url"      : "/page2/", 
 "date"     : "January 1, 1970" 
 } 
  
