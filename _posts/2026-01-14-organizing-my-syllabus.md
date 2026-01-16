@@ -148,7 +148,7 @@ Last, I built a folder in the "syllabi" directory called "site," which allows me
 
 # Is This Better?
 
-Like anything, I will still probably make some changes. After prepping my syllabi for the beginning of this Spring semester, I got to test how the editing worked as well as revisit my organization. I know I would like to reorganize a couple of things: maybe I should split the some pages into more granular ones, with their `<xi:include/>` structure. I would still like to automate more of my course calendar and reduce the amount of fiddling I have to do.
+Like anything, I will still probably make some changes. After prepping my syllabi for the beginning of this Spring semester, I got to test how the editing worked as well as revisit my organization. I know I would like to reorganize a couple of things: maybe I should split the some pages into more granular ones, with their own `<xi:include/>` structure. I would still like to automate more of my course calendar and reduce the amount of fiddling I have to do.
 
 And I still have a million of little clicky tasks to do on Canvas. I don't think that's ever going to go away. But at least the number of clicky tasks that I have are fewer and these specific ones are less annoying!
 
