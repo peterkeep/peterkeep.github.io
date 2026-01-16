@@ -122,7 +122,7 @@ Now that things are organized well, I set up a way to link this easily to Canvas
 
 # External Hosting
 
-My "syllabi" folder is a git repository, linked to my GitHub account. This means that there is whole backbone of version control and file syncing to utilize. Combined with the built-in PreTeXt tools, it is pretty easy to host my syllabus and link it to my Canvas course site.
+My "syllabi" folder is a git repository, linked to my GitHub account. This means that there is a whole backbone of version control and file syncing to utilize. Combined with the built-in PreTeXt tools, it is pretty easy to host my syllabus and link it to my Canvas course site.
 
 PreTeXt has a built in command to publish any PreTeXt document on a website using GitHub pages.
 
