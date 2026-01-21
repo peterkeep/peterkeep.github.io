@@ -206,7 +206,7 @@ It doesn't really matter that I've had to cut some of this fun stuff from class.
 
 ## References
 
-[^harmonic]: To see some of the many explanations of proofs of this, see the paper, [The Harmonic Series Diverges Again and Again](https://stevekifowit.com/pubs/harmapa.pdf), and its follow-up, [More Proofs of the Divergence of the Harmonic Series](https://stevekifowit.com/pubs/harm2.pdf).
+[^harmonic]: To see some of the many explanations or proofs of this, see the paper, [The Harmonic Series Diverges Again and Again](https://stevekifowit.com/pubs/harmapa.pdf), and its follow-up, [More Proofs of the Divergence of the Harmonic Series](https://stevekifowit.com/pubs/harm2.pdf).
 [^integral]: [Theorem 8.4.7. Integral Test](https://www.discovercalculus.com/web/sec-IntegralTest.html#thm-IntegralTest) from [Discover Calculus](https://www.discovercalculus.com/web/frontmatter.html)
 [^comparison]: [Theorem 8.7.4. Direct Comparison Test](https://www.discovercalculus.com/web/sec-ComparisonTests.html#thm-DirectComparisonTest) from [Discover Calculus](https://www.discovercalculus.com/web/frontmatter.html)
 [^prime]: [Prime Number Theorem](https://en.wikipedia.org/wiki/Prime_number_theorem#Statement) on Wikipedia
