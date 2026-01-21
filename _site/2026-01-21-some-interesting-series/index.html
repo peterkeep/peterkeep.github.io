@@ -379,9 +379,13 @@ details {
                     Something to note is that this inequality only really works when \(k\gt 1\), so we'll consider the infinite series starting at \(k=2\) instead. Adding back the term when \(k=1\) in our original series will not change the behavior, and so we can start our series at \(k=2\) to classify whether it converges or diverges.
                 </li>
                 <li>
-                    While \(\dfrac{1}{\left\lfloor\log(x)+1\right\rfloor}\) is not continuous on \([2,\infty)\), the functions \(\dfrac{1}{\log(x)(x^p)}\) and \(\dfrac{1}{(\log(x)_+1)(k^p)}\) are. It turns out that the integrals
+                    While \(\dfrac{1}{\left\lfloor\log(x)+1\right\rfloor}\) is not continuous on \([2,\infty)\), the functions \(\dfrac{1}{\log(x)(x^p)}\) and \(\dfrac{1}{(\log(x)+1)(k^p)}\) are. It turns out that the integrals
                     $$
-                        \int_{x=2}^\infty \frac{1}{\log(x)x^p}\;dx \;\;\; \text{and} \;\;\; \int_{x=2}^\infty \frac{1}{(\log(x)+1)(x^p)}\;dx
+                        \int_{x=2}^\infty \frac{1}{\log(x)x^p}\;dx
+                    $$
+                    and
+                    $$
+                        \int_{x=2}^\infty \frac{1}{(\log(x)+1)(x^p)}\;dx
                     $$
                     are fun to evaluate.
                 </li>
@@ -447,7 +451,11 @@ details {
                     $$
                     We also know that as \(k\to\infty\), \(P_k \to k\log(k)\). This is perfect for the purposes of a Limit Comparison Test! We can use it to compare the two series (again, starting at \(k=2\) to avoid division badness with the logarithm):
                     $$
-                        \sum_{k=2}^\infty \frac{1}{P_k(k^p)} \;\;\; \text{compared to}\;\;\;\sum_{k=2}^\infty \frac{1}{k^{p+1}\log(k)}.
+                        \sum_{k=2}^\infty \frac{1}{P_k(k^p)} 
+                    $$
+                    compared to
+                    $$
+                        \sum_{k=2}^\infty \frac{1}{k^{p+1}\log(k)}.
                     $$
                     Hopefully we can pair this with something like the Integral Test to tell us about the behavior of 
                     $$
