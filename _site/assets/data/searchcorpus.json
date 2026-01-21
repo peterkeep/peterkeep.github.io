@@ -1,6 +1,14 @@
 [ 
  
 { 
+"title"    : "Two Fun Infinite Series", 
+"desc"     : "Two Fun Infinite Series", 
+"category" : "math, teaching", 
+"url"      : "/2026-01-21-some-interesting-series/", 
+"date"     : "January 21, 2026" 
+}, 
+ 
+{ 
 "title"    : "Organizing my Syllabus", 
 "desc"     : "Organizing my Syllabus", 
 "category" : "personal, teaching", 
@@ -78,6 +86,14 @@
 "desc"     : "Teaching", 
 "category" : "page", 
 "url"      : "/teaching/", 
+"date"     : "January 1, 1970" 
+}, 
+ 
+{ 
+"title"    : "Peter Keep", 
+"desc"     : "Peter Keep", 
+"category" : "page", 
+"url"      : "/page2/", 
 "date"     : "January 1, 1970" 
 } 
  

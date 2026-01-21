@@ -1,0 +1,705 @@
+<!DOCTYPE html>
+<html lang="en">
+<!-- Beautiful Jekyll 6.0.1 | Copyright Dean Attali 2023 -->
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+
+  
+
+  
+
+  
+
+  <title>Two Fun Infinite Series</title>
+
+  
+  
+  <meta name="author" content="Peter Keep">
+  
+
+  <meta name="description" content="I love teaching Calculus II. It hits the perfect sweet-spot of “has really cool mathematics” and “always available to teach,” since we run multiple sections of it every semester and, apparently, nobody else in my department really likes teaching it that much. Weird. Anyways, it’s my favorite class to teach. I have made a decent number of changes to the course over the past 10 years, really trying to build up the themes of the course (Approximation! Accumulation!) and make them explicit to students. But sometimes that means that some other little aspect of the course gets cut or diminished. This post is about some of my favorite little problems to pitch to students that I don’t get near enough time to chat about with my students. Some Infinite Series Ok, let’s look at some of my favorite little series problems. I don’t think I came up with any of these, and I’m sure they were borrowed from other people or derived from other people’s examples. First, though, some preliminaries. The Harmonic Series: The series of reciprocals is called the Harmonic series: $$ \sum_{k=1}^\infty \frac{1}{k} = 1 + \frac{1}{2}+\frac{1}{3}+\frac{1}{4} + ... $$ An introductory calculus student will find pretty quickly...">
+
+  
+
+  
+  <meta name="keywords" content="OER,math,mathprofpeter,peter,keep,peter keep,education,alternative grading,ungrading,community college">
+  
+
+  
+  <link rel="alternate" type="application/rss+xml" title="Peter Keep" href="http://localhost:4000/feed.xml">
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+<script type="text/javascript">
+  MathJax = {
+    options: {
+      skipHtmlTags: [
+        'script', 'noscript', 'style', 'textarea', 'pre', 'code'
+      ]
+    }
+  };
+</script>
+<script type="text/javascript" async src="https://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML"></script>
+
+
+
+  
+    
+      
+  <link href="https://stackpath.bootstrapcdn.com/bootstrap/4.4.1/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-Vkoo8x4CGsO3+Hhxv8T/Q5PaXtkKtu6ug5TOeNV6gBiFeWPGFN9MuhOf23Q9Ifjh" crossorigin="anonymous">
+
+
+    
+      
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.2/css/all.min.css">
+
+
+    
+      
+  <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Lora:400,700,400italic,700italic">
+
+
+    
+      
+  <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Open+Sans:300italic,400italic,600italic,700italic,800italic,400,300,600,700,800">
+
+
+    
+  
+
+  
+    
+      <link rel="stylesheet" href="/assets/css/bootstrap-social.css">
+    
+      <link rel="stylesheet" href="/assets/css/beautifuljekyll.css">
+    
+  
+
+  
+
+  
+  
+  
+
+  
+
+  
+  <meta property="og:site_name" content="Peter Keep">
+  <meta property="og:title" content="Two Fun Infinite Series">
+  <meta property="og:description" content="I love teaching Calculus II. It hits the perfect sweet-spot of “has really cool mathematics” and “always available to teach,” since we run multiple sections of it every semester and, apparently, nobody else in my department really likes teaching it that much. Weird. Anyways, it’s my favorite class to teach. I have made a decent number of changes to the course over the past 10 years, really trying to build up the themes of the course (Approximation! Accumulation!) and make them explicit to students. But sometimes that means that some other little aspect of the course gets cut or diminished. This post is about some of my favorite little problems to pitch to students that I don’t get near enough time to chat about with my students. Some Infinite Series Ok, let’s look at some of my favorite little series problems. I don’t think I came up with any of these, and I’m sure they were borrowed from other people or derived from other people’s examples. First, though, some preliminaries. The Harmonic Series: The series of reciprocals is called the Harmonic series: $$ \sum_{k=1}^\infty \frac{1}{k} = 1 + \frac{1}{2}+\frac{1}{3}+\frac{1}{4} + ... $$ An introductory calculus student will find pretty quickly...">
+
+  
+  <meta property="og:image" content="http://localhost:4000/assets/img/posts/series.png">
+  
+
+  
+  <meta property="og:type" content="article">
+  
+  <meta property="og:article:author" content="Peter Keep">
+  
+  <meta property="og:article:published_time" content="2026-01-21T00:00:00-06:00">
+  <meta property="og:url" content="http://localhost:4000/2026-01-21-some-interesting-series/">
+  <link rel="canonical" href="http://localhost:4000/2026-01-21-some-interesting-series/">
+  
+
+  
+  <meta name="twitter:card" content="summary_large_image">
+  
+  <meta name="twitter:site" content="@">
+  <meta name="twitter:creator" content="@">
+
+  <meta property="twitter:title" content="Two Fun Infinite Series">
+  <meta property="twitter:description" content="I love teaching Calculus II. It hits the perfect sweet-spot of “has really cool mathematics” and “always available to teach,” since we run multiple sections of it every semester and, apparently, nobody else in my department really likes teaching it that much. Weird. Anyways, it’s my favorite class to teach. I have made a decent number of changes to the course over the past 10 years, really trying to build up the themes of the course (Approximation! Accumulation!) and make them explicit to students. But sometimes that means that some other little aspect of the course gets cut or diminished. This post is about some of my favorite little problems to pitch to students that I don’t get near enough time to chat about with my students. Some Infinite Series Ok, let’s look at some of my favorite little series problems. I don’t think I came up with any of these, and I’m sure they were borrowed from other people or derived from other people’s examples. First, though, some preliminaries. The Harmonic Series: The series of reciprocals is called the Harmonic series: $$ \sum_{k=1}^\infty \frac{1}{k} = 1 + \frac{1}{2}+\frac{1}{3}+\frac{1}{4} + ... $$ An introductory calculus student will find pretty quickly...">
+
+  
+  <meta name="twitter:image" content="http://localhost:4000/assets/img/posts/series.png">
+  
+
+  
+
+
+  
+
+  
+  
+  <link rel="icon" href="/favicon.ico" />
+  
+
+  
+
+</head>
+
+
+<body>
+  
+
+
+  <nav class="navbar navbar-expand-xl navbar-light fixed-top navbar-custom top-nav-regular"><a class="navbar-brand" href="http://localhost:4000/">Peter Keep</a><button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#main-navbar" aria-controls="main-navbar" aria-expanded="false" aria-label="Toggle navigation">
+    <span class="navbar-toggler-icon"></span>
+  </button>
+
+  <div class="collapse navbar-collapse" id="main-navbar">
+    <ul class="navbar-nav ml-auto">
+          <li class="nav-item dropdown">
+            <a class="nav-link dropdown-toggle" href="#" id="navbarDropdown" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">More Info</a>
+            <div class="dropdown-menu dropdown-menu-right" aria-labelledby="navbarDropdown">
+                  <a class="dropdown-item" href="/aboutme">About Me</a>
+                  <a class="dropdown-item" href="/teaching">Teaching</a>
+                  <a class="dropdown-item" href="/talks">Talks</a>
+            </div>
+          </li>
+        
+          <li class="nav-item">
+            <a class="nav-link" href="/contact">Contact</a>
+          </li>
+          <li class="nav-item">
+            <a class="nav-link" href="/tags">Tags</a>
+          </li>
+          <li class="nav-item">
+            <a class="nav-link" href="https://www.discovercalculus.com">Discover Calculus</a>
+          </li></ul>
+  </div>
+
+  
+
+  
+    <div class="avatar-container">
+      <div class="avatar-img-border">
+        <a href="http://localhost:4000/">
+          <img alt="Navigation bar avatar" class="avatar-img" src="/assets/img/peterkeep.jpg" />
+        </a>
+      </div>
+    </div>
+  
+
+</nav>
+
+
+
+
+
+  
+
+
+
+<header class="header-section ">
+<div class="intro-header ">
+  
+  <div class="container-md">
+    <div class="row">
+      <div class="col-xl-8 offset-xl-2 col-lg-10 offset-lg-1">
+        <div class="post-heading">
+          <h1>Two Fun Infinite Series</h1>
+          
+          
+           
+            
+              By <strong>Peter Keep</strong><br>
+            
+            <span class="post-meta">Posted on January 21, 2026</span>
+            
+            
+          
+        </div>
+      </div>
+    </div>
+  </div>
+  
+  
+</div>
+
+
+
+</header>
+
+
+<style>
+  .caption {
+    margin: auto;
+  }
+  .caption img {
+    width:75%;
+    max-width: 400px;
+    min-width: 200px;
+  }
+  img + em {
+    display: block;
+    text-align: center;
+    font-size: small;
+  }
+
+  details > summary {
+    font-family: var(--header-font);
+    font-size: 0.9375rem;
+    margin: 0;
+    opacity: 1;
+    border: 1px solid;
+    border-color: #404040;
+    text-decoration: none;
+    font-weight: bold; 
+    color: rgb(255, 255, 255); 
+    font-size: 16px; 
+    text-align: left; 
+    background-color: #404040; 
+    text-transform: none !important;
+    justify-content: center !important;
+    border-radius: 6px !important;
+    box-shadow: 0 5px 25px rgba(34, 60, 47, 0.25) !important;
+    padding-left: 15px;
+}
+
+details > summary:hover {
+    opacity: 0.9;
+}
+
+details[open] > summary {
+    border-radius: 6px 6px 0px 0px!important;
+}
+
+details {
+    background-color: #eeeeee;
+    margin: 20px;
+    border: 1px solid;
+    border-color: #404040;
+    border-radius: 6px !important;    
+    box-shadow: 0 5px 25px rgba(34, 60, 47, 0.25) !important;
+}
+</style>
+
+<main class=" container-md ">
+  <div class="row">
+    <div class=" col-xl-8 offset-xl-2 col-lg-10 offset-lg-1 ">
+
+      
+
+      
+
+      <div class="blog-post">
+        <p>I love teaching Calculus II. It hits the perfect sweet-spot of “has really cool mathematics” and “always available to teach,” since we run multiple sections of it every semester and, apparently, nobody else in my department really likes teaching it that much. Weird. Anyways, it’s my favorite class to teach.</p>
+
+<p>I have made a decent number of changes to the course over the past 10 years, really trying to build up the themes of the course (Approximation! Accumulation!) and make them explicit to students. But sometimes that means that some other little aspect of the course gets cut or diminished. This post is about some of my favorite little problems to pitch to students that I don’t get near enough time to chat about with my students.</p>
+
+<h1 id="some-infinite-series">Some Infinite Series</h1>
+
+<p>Ok, let’s look at some of my favorite little series problems. I don’t think I came up with any of these, and I’m sure they were borrowed from other people or derived from other people’s examples.</p>
+
+<p>First, though, some preliminaries.</p>
+
+<div class="box-warning">
+    <b>The Harmonic Series:</b> The series of reciprocals is called the Harmonic series:
+    $$
+        \sum_{k=1}^\infty \frac{1}{k} = 1 + \frac{1}{2}+\frac{1}{3}+\frac{1}{4} + ...
+    $$
+</div>
+
+<p>An introductory calculus student will find pretty quickly that this infinite sum <strong>diverges</strong>—when we add these terms iteratively (\(1\), \(1+\frac{1}{2}\), \(1+\frac{1}{2}+\frac{1}{3}\), \(1+\frac{1}{2}+\frac{1}{3}+\frac{1}{4}\), …) the cumulative sums (or <strong>partial sums</strong>) do not seem to be converging on any single, real number. In an introductory calculus class, we can prove this<sup id="fnref:harmonic"><a href="#fn:harmonic" class="footnote" rel="footnote" role="doc-noteref">1</a></sup>.</p>
+
+<p>And from there, we can look at what happens when we fiddle with the exponent on the denominators…maybe instead of the sum of reciprocals, we look at the sum of the reciprocal squares? Or reciprocal cubes! Or reciprocal square roots! And then we quickly arrive at a nice result, connecting this family of infinite sums together.</p>
+
+<div class="box-warning">
+    <b>\(p\)-Series:</b> For the real number \(p\), the series
+    $$
+        \sum_{k=1}^\infty \frac{1}{k^p}
+    $$
+    converges when \(p\gt1\) and diverges when \(p\leq 1\).
+</div>
+
+<p>There is a lot to say about this family of series, but from here forward, we’re going to present and talk about some related infinite series. In order to talk about them, we’ll assume that we know about series convergence tests like the Integral Test<sup id="fnref:integral"><a href="#fn:integral" class="footnote" rel="footnote" role="doc-noteref">2</a></sup> and the Comparison Tests<sup id="fnref:comparison"><a href="#fn:comparison" class="footnote" rel="footnote" role="doc-noteref">3</a></sup>.</p>
+
+<h2 id="counting-digits">Counting Digits</h2>
+
+<p>Let’s consider the following infinite series:</p>
+
+\[\sum_{k=1}^\infty \frac{1}{k^pD(k)}\]
+
+<p>where \(D(k)\) is the function that counts the number of digits in \(k\). So \(D(7)=1\) and \(D(146)=3\).</p>
+
+<p>For what values of \(p\) does this series converge?</p>
+
+<p>Ok, so this is such a fun problem to pitch to students because:</p>
+
+<ol>
+  <li>Students are typically not used to working with functions like \(D\), where it is easy to describe in words but not formulated mathematically, yet.</li>
+  <li>It is a problem that a student in Calculus II could work through, completely independently.</li>
+  <li>Students in my class work in groups, and so they go into this knowing that they won’t be expected to complete it independently.</li>
+</ol>
+
+<p>Try this one yourself, and see how much fun it is!</p>
+
+<details>
+    <summary>Hints!</summary>
+    <div style="padding: 10px;">
+        <p>
+            There are a couple of questions you'll want to answer.
+            <ol>
+                <li>
+                    Can you use logs to describe the \(D(k)\) function? It's an interesting function because it's kind of a step function.
+                </li>
+                <li>
+                    Can you start with some basic values of \(p\), and think about comparisons? Note that \(D(k)\geq 1\) for \(k=1,2,3,4,...\)
+                </li>
+                <li>
+                    This is <em>almost</em> something that you could use the Integral Test on...too bad we don't meet the continuity requirement for the integral. Unless...?
+                </li>
+            </ol>
+        </p>
+    </div>
+</details>
+
+<details>
+    <summary>Even More Specific Hints!</summary>
+    <div style="padding: 10px;">
+        <p>
+            Here are some more details about the hints above.
+            <ol>
+                <li>
+                    We know that \(D(k)=\left\lfloor\log(k)+1\right\rfloor\). So our series is really:
+                    $$
+                        \sum_{k=1}^\infty \frac{1}{\left\lfloor\log(k)+1\right\rfloor(k^p)}.
+                    $$
+                </li>
+                <li>
+                    We can use the fact that 
+                    $$
+                        \log(k) \leq \left\lfloor\log(k)+1\right\rfloor \leq \log(k)+1
+                    $$
+                    and show then that
+                    $$
+                        \frac{1}{\log(k)(k^p)}\geq \frac{1}{D(k)k^p} \geq \frac{1}{\left(\log(k)+1\right)k^p}
+                    $$
+                    Something to note is that this inequality only really works when \(k\gt 1\), so we'll consider the infinite series starting at \(k=2\) instead. Adding back the term when \(k=1\) in our original series will not change the behavior, and so we can start our series at \(k=2\) to classify whether it converges or diverges.
+                </li>
+                <li>
+                    While \(\dfrac{1}{\left\lfloor\log(x)+1\right\rfloor}\) is not continuous on \([2,\infty)\), the functions \(\dfrac{1}{\log(x)(x^p)}\) and \(\dfrac{1}{(\log(x)_+1)(k^p)}\) are. It turns out that the integrals
+                    $$
+                        \int_{x=2}^\infty \frac{1}{\log(x)x^p}\;dx \;\;\; \text{and} \;\;\; \int_{x=2}^\infty \frac{1}{(\log(x)+1)(x^p)}\;dx
+                    $$
+                    are fun to evaluate.
+                </li>
+            </ol>
+        </p>
+    </div>
+</details>
+
+<h2 id="primes">Primes</h2>
+
+<p>Now let’s consider a second, but similar, infinite series:</p>
+
+\[\sum_{k=1}^\infty \frac{1}{P_k(k^p)}\]
+
+<p>where \(P_k\) is the \(k\)th prime number. So \(P_1=2\) and \(P_{16}=53\).</p>
+
+<p>Again, we can ask: for what values of \(p\) does this series converge?</p>
+
+<p>This one is fun to give to students because:</p>
+
+<ol>
+  <li>The \(P_k\) function is another one that they know a bit about, but not much. And it’s been historically harder to write out mathematically than the \(D(k)\) function above.</li>
+  <li>It requires students to do a bit of looking around in a topic that isn’t often connected with calculus. They get to learn about prime numbers, and some great history around an important theorem<sup id="fnref:prime"><a href="#fn:prime" class="footnote" rel="footnote" role="doc-noteref">4</a></sup>.</li>
+  <li>Students in my class are used to having a laptop or tablet or something similar at their tables in their groups, and they know that they can use them. This is a great opportunity to give students some small prompts and set them loose!</li>
+</ol>
+
+<p>I am pretty sure this is a common series to look at in an introductory analysis course, but it’s really fun as well! Give it a try!</p>
+
+<details>
+    <summary>Hints!</summary>
+    <div style="padding: 10px;">
+        <p>
+            Here are some general thoughts or hints that I might give students.
+            <ol>
+                <li>
+                    Can you start by comparing the size of \(P_k\) with \(k\)? Which one is bigger? Does this ordering remain for all values of \(k\)?
+                 </li>
+                 <li>
+                    It would be helpful to have a written-out function rule for \(P_k\), but unfortunately we don't have one. Take a look at the Prime Number Theorem in the references at the end of the page. This could be helpful!
+                 </li>
+            </ol>
+        </p>
+    </div>
+</details>
+
+<details>
+    <summary>Even More Specific Hints!</summary>
+    <div style="padding: 10px;">
+        <p>
+            Here are some more details about those hints above!
+            <ol>
+                <li>
+                    Once we convince ourselves that \(P_k\gt k\) for all \(k=1,2,3,...\), then we can get 
+                    $$
+                        \frac{1}{P_k(k^p)} \lt \frac{1}{k^{p+1}}.
+                    $$
+                    This inequality is a great one to use to show some values of \(p\) that will make the \(\displaystyle\sum_{k=1}^\infty \frac{1}{P_k(k^p)} \) converge.
+                 </li>
+                 <li>
+                    There's a lot of fun reading about the Prime Number Theorem, but one of the statements of it gives us a way of approximating prime numbers:
+                    $$
+                        P_k \approx k\log(k).
+                    $$
+                    We also know that as \(k\to\infty\), \(P_k \to k\log(k)\). This is perfect for the purposes of a Limit Comparison Test! We can use it to compare the two series (again, starting at \(k=2\) to avoid division badness with the logarithm):
+                    $$
+                        \sum_{k=2}^\infty \frac{1}{P_k(k^p)} \;\;\; \text{compared to}\;\;\;\sum_{k=2}^\infty \frac{1}{k^{p+1}\log(k)}.
+                    $$
+                    Hopefully we can pair this with something like the Integral Test to tell us about the behavior of 
+                    $$
+                        \displaystyle\sum_{k=2}^\infty \frac{1}{k^{p+1}\log(k)}
+                    $$
+                    for different values of \(p\) by thinking about the behavior of the integral
+                    $$
+                        \int_{x=2}^\infty \frac{1}{x^{p+1}\log(x)}\;dx
+                    $$
+                    for different values of \(p\). 
+                 </li>
+            </ol>
+        </p>
+    </div>
+</details>
+
+<p>Anyways, these are two fun ones. There are a whole host of similar integrals, where we swap out \(D(k)\) or \(P_k\) for some other function: we can use \(F_k\) to find the \(k\)th Fibonacci number or pick some other interesting value.</p>
+
+<p>Remember, my goal here isn’t to give problems to students where I can assess their work and assign a grade: these are good problems because they allow students to explore the series, learn a bit about some other math that is interesting, and try a lot of strategies. They’re great ways to spend a class period thinking about, talking about, and doing good mathematics!</p>
+
+<p>It doesn’t really matter that I’ve had to cut some of this fun stuff from class. I’ve still found some good ways of getting stuff like this in front of students when we can.</p>
+
+<h2 id="references">References</h2>
+
+<div class="footnotes" role="doc-endnotes">
+  <ol>
+    <li id="fn:harmonic">
+      <p>To see some of the many explanations of proofs of this, see the paper, <a href="https://stevekifowit.com/pubs/harmapa.pdf">The Harmonic Series Diverges Again and Again</a>, and its follow-up, <a href="https://stevekifowit.com/pubs/harm2.pdf">More Proofs of the Divergence of the Harmonic Series</a>. <a href="#fnref:harmonic" class="reversefootnote" role="doc-backlink">&#8617;</a></p>
+    </li>
+    <li id="fn:integral">
+      <p><a href="https://www.discovercalculus.com/web/sec-IntegralTest.html#thm-IntegralTest">Theorem 8.4.7. Integral Test</a> from <a href="https://www.discovercalculus.com/web/frontmatter.html">Discover Calculus</a> <a href="#fnref:integral" class="reversefootnote" role="doc-backlink">&#8617;</a></p>
+    </li>
+    <li id="fn:comparison">
+      <p><a href="https://www.discovercalculus.com/web/sec-ComparisonTests.html#thm-DirectComparisonTest">Theorem 8.7.4. Direct Comparison Test</a> from <a href="https://www.discovercalculus.com/web/frontmatter.html">Discover Calculus</a> <a href="#fnref:comparison" class="reversefootnote" role="doc-backlink">&#8617;</a></p>
+    </li>
+    <li id="fn:prime">
+      <p><a href="https://en.wikipedia.org/wiki/Prime_number_theorem#Statement">Prime Number Theorem</a> on Wikipedia <a href="#fnref:prime" class="reversefootnote" role="doc-backlink">&#8617;</a></p>
+    </li>
+  </ol>
+</div>
+
+      </div>
+
+      
+
+      
+        <div class="blog-tags">
+          <span>Tags:</span>
+          
+            <a href="/tags#math">math</a>
+          
+            <a href="/tags#teaching">teaching</a>
+          
+        </div>
+      
+
+      
+
+      
+        <style>
+  .subscribe a{
+    font-family: var(--header-font);
+    font-size: 0.9375rem;
+    margin: 1.875rem 0;
+    opacity: 1;
+    color: var(--text-col);
+    border: 1px solid;
+    border-color: var(--text-col);
+    padding: 5px;
+    text-decoration: none;
+    font-weight: bold; color: rgb(255, 255, 255); font-size: 16px; text-align: center; background-color: #404040; text-transform: none !important;
+    justify-content: center !important;
+    border-radius: 6px !important;
+    box-shadow: 0 5px 25px rgba(34, 60, 47, 0.25) !important;
+  }
+
+  .subscribe a:hover{
+    opacity: 0.9;
+  }
+</style>
+
+<!-- Check if any share-links are active -->
+
+
+
+
+<section id = "social-share-section">
+  <div>
+  <!-- <span style="font-size: 100%">Share: </span> -->
+
+  
+
+  
+
+  
+
+  
+
+  
+    <span class="subscribe"><a href="https://bsky.app/intent/compose?text=Two+Fun+Infinite+Series%0Ahttp%3A%2F%2Flocalhost%3A4000%2F2026-01-21-some-interesting-series%2F"
+      class="subscribe" title="Share on BlueSky" target="_blank">
+      <span class="fab fa-fw fa-bluesky" aria-hidden="true" style="font-size:100%; color:#41ADFF;"></span>
+      <span class="subscribe">Share on Bluesky</span>
+      <span class="sr-only">Bluesky</span> 
+    </a>
+    </span>
+  
+
+  
+    </div>
+</section>
+
+
+      
+
+      <div class="subscribe" style="margin-bottom:20px;">
+        <a href="https://preview.mailerlite.io/forms/2029554/176225740581242785/share" target="_blank" title="Subscribe"><i class="fas fa-inbox"></i>&nbsp;Subscribe by Email</a>
+      </div>
+
+      <ul class="pagination blog-pager">
+        
+        <li class="page-item previous">
+          <a class="page-link" href="/2026-01-14-organizing-my-syllabus/" data-toggle="tooltip" data-placement="top" title="Organizing my Syllabus">
+            <i class="fas fa-arrow-left" alt="Previous Post"></i>
+            <span class="d-none d-sm-inline-block">Previous Post</span>
+          </a>
+        </li>
+        
+        
+      </ul>
+      
+  
+  
+  
+
+  
+
+
+  
+
+  
+
+
+
+    </div>
+  </div>
+</main>
+
+
+  <footer>
+  <div class="container-md beautiful-jekyll-footer">
+    <div class="row">
+      <div class="col-xl-8 offset-xl-2 col-lg-10 offset-lg-1">
+      
+<ul class="list-inline text-center footer-links"><li class="list-inline-item">
+    <a href="mailto:keepp@morainevalley.edu" title="Email me">
+      <span class="fa-stack fa-lg" aria-hidden="true">
+        <i class="fas fa-circle fa-stack-2x"></i>
+        <i class="fas fa-envelope fa-stack-1x fa-inverse"></i>
+      </span>
+      <span class="sr-only">Email me</span>
+   </a>
+  </li><li class="list-inline-item">
+    <a href="/feed.xml" title="RSS">
+      <span class="fa-stack fa-lg" aria-hidden="true">
+        <i class="fas fa-circle fa-stack-2x"></i>
+        <i class="fas fa-rss fa-stack-1x fa-inverse"></i>
+      </span>
+      <span class="sr-only">RSS</span>
+    </a>
+  </li><li class="list-inline-item">
+    <a href="https://github.com/peterkeep" title="GitHub" target="_blank">
+      <span class="fa-stack fa-lg" aria-hidden="true">
+        <i class="fas fa-circle fa-stack-2x"></i>
+        <i class="fab fa-github fa-stack-1x fa-inverse"></i>
+      </span>
+      <span class="sr-only">GitHub</span>
+   </a>
+  </li><li class="list-inline-item">
+    <a rel="me" href="https://bsky.app/profile/mathprofpeter.bsky.social" title="Bluesky" target="_blank">
+      <span class="fa-stack fa-lg" aria-hidden="true">
+        <i class="fas fa-circle fa-stack-2x"></i>
+        <i class="fas fa-brands fa-bluesky fa-stack-1x fa-inverse"></i>
+      </span>
+      <span class="sr-only">Bluesky</span>
+    </a>
+  </li></ul>
+
+
+      
+      <p class="copyright text-muted">
+      
+        Peter Keep
+        &nbsp;&bull;&nbsp;
+      
+      2026
+
+      
+        &nbsp;&bull;&nbsp;
+        <span class="author-site">
+          <a href="http://localhost:4000/">Peter-Keep.com</a>
+        </span>
+      
+
+      
+
+      
+
+      </p>
+      <p class="theme-by text-muted">
+        
+      </p>
+      </div>
+    </div>
+  </div>
+</footer>
+
+
+  
+  
+    
+  <script src="https://code.jquery.com/jquery-3.5.1.slim.min.js" integrity="sha256-4+XzXVhsDmqanXGHaHvgh1gMQKX40OUvDEBTu8JcmNs=" crossorigin="anonymous"></script>
+
+
+  
+    
+  <script src="https://cdn.jsdelivr.net/npm/popper.js@1.16.0/dist/umd/popper.min.js" integrity="sha384-Q6E9RHvbIyZFJoft+2mJbHaEWldlvI9IOYy5n3zV9zzTtmI3UksdQRVvoxMfooAo" crossorigin="anonymous"></script>
+
+
+  
+    
+  <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.4.1/js/bootstrap.min.js" integrity="sha384-wfSDF2E50Y2D1uUdj0O3uMBJnjuUD4Ih7YwaYd1iqfktj0Uod8GCExl3Og8ifwB6" crossorigin="anonymous"></script>
+
+
+  
+
+
+
+  
+    <!-- doing something a bit funky here because I want to be careful not to include JQuery twice! -->
+    
+      <script src="/assets/js/beautifuljekyll.js"></script>
+    
+  
+
+
+
+
+
+
+
+
+
+</body>
+</html>

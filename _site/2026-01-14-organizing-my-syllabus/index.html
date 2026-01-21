@@ -229,6 +229,43 @@
     text-align: center;
     font-size: small;
   }
+
+  details > summary {
+    font-family: var(--header-font);
+    font-size: 0.9375rem;
+    margin: 0;
+    opacity: 1;
+    border: 1px solid;
+    border-color: #404040;
+    text-decoration: none;
+    font-weight: bold; 
+    color: rgb(255, 255, 255); 
+    font-size: 16px; 
+    text-align: left; 
+    background-color: #404040; 
+    text-transform: none !important;
+    justify-content: center !important;
+    border-radius: 6px !important;
+    box-shadow: 0 5px 25px rgba(34, 60, 47, 0.25) !important;
+    padding-left: 15px;
+}
+
+details > summary:hover {
+    opacity: 0.9;
+}
+
+details[open] > summary {
+    border-radius: 6px 6px 0px 0px!important;
+}
+
+details {
+    background-color: #eeeeee;
+    margin: 20px;
+    border: 1px solid;
+    border-color: #404040;
+    border-radius: 6px !important;    
+    box-shadow: 0 5px 25px rgba(34, 60, 47, 0.25) !important;
+}
 </style>
 
 <main class=" container-md ">
@@ -345,7 +382,7 @@
 
 <h1 id="external-hosting">External Hosting</h1>
 
-<p>My “syllabi” folder is a git repository, linked to my GitHub account. This means that there is whole backbone of version control and file syncing to utilize. Combined with the built-in PreTeXt tools, it is pretty easy to host my syllabus and link it to my Canvas course site.</p>
+<p>My “syllabi” folder is a git repository, linked to my GitHub account. This means that there is a whole backbone of version control and file syncing to utilize. Combined with the built-in PreTeXt tools, it is pretty easy to host my syllabus and link it to my Canvas course site.</p>
 
 <p>PreTeXt has a built in command to publish any PreTeXt document on a website using GitHub pages.</p>
 
@@ -368,7 +405,7 @@
 
 <h1 id="is-this-better">Is This Better?</h1>
 
-<p>Like anything, I will still probably make some changes. After prepping my syllabi for the beginning of this Spring semester, I got to test how the editing worked as well as revisit my organization. I know I would like to reorganize a couple of things: maybe I should split the some pages into more granular ones, with their <code class="language-plaintext highlighter-rouge">&lt;xi:include/&gt;</code> structure. I would still like to automate more of my course calendar and reduce the amount of fiddling I have to do.</p>
+<p>Like anything, I will still probably make some changes. After prepping my syllabi for the beginning of this Spring semester, I got to test how the editing worked as well as revisit my organization. I know I would like to reorganize a couple of things: maybe I should split the some pages into more granular ones, with their own <code class="language-plaintext highlighter-rouge">&lt;xi:include/&gt;</code> structure. I would still like to automate more of my course calendar and reduce the amount of fiddling I have to do.</p>
 
 <p>And I still have a million of little clicky tasks to do on Canvas. I don’t think that’s ever going to go away. But at least the number of clicky tasks that I have are fewer and these specific ones are less annoying!</p>
 
@@ -486,6 +523,13 @@
           </a>
         </li>
         
+        
+        <li class="page-item next">
+          <a class="page-link" href="/2026-01-21-some-interesting-series/" data-toggle="tooltip" data-placement="top" title="Two Fun Infinite Series">
+            <span class="d-none d-sm-inline-block">Next Post</span>
+            <i class="fas fa-arrow-right" alt="Next Post"></i>
+          </a>
+        </li>
         
       </ul>
       

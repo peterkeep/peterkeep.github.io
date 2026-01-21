@@ -12,6 +12,20 @@
     
     
       <item>
+        <title>Two Fun Infinite Series</title>
+        
+        <dc:creator><![CDATA[ Peter Keep ]]></dc:creator>
+        
+        <description>
+          
+          I love teaching Calculus II. It hits the perfect sweet-spot of “has really cool mathematics” and “always available to teach,” since we run multiple sections of it every semester and, apparently, nobody else in my department really likes teaching it that much. Weird. Anyways, it’s my favorite class to teach. I have made a decent number of changes to the course over the past 10 years, really trying to build up the themes of the course (Approximation! Accumulation!) and make them explicit to students. But sometimes that means that some other little aspect of the course gets cut or diminished. This post is about some of my favorite little problems to pitch to students that I don’t get near enough time to chat about with my students. Some Infinite Series Ok, let’s look at some of my favorite little series problems. I don’t think I came up with any of these, and I’m sure they were borrowed from other people or derived from other people’s examples. First, though, some preliminaries. The Harmonic Series: The series of reciprocals is called the Harmonic series: $$ \sum_{k=1}^\infty \frac{1}{k} = 1 + \frac{1}{2}+\frac{1}{3}+\frac{1}{4} + ... $$ An introductory calculus student will find pretty quickly...
+        </description>
+        <pubDate>Wed, 21 Jan 2026</pubDate>
+        <link>http://localhost:4000/2026-01-21-some-interesting-series/</link>
+        <guid isPermaLink="true">http://localhost:4000/2026-01-21-some-interesting-series/</guid>
+      </item>
+    
+      <item>
         <title>Organizing my Syllabus</title>
         
         <dc:creator><![CDATA[ Peter Keep ]]></dc:creator>

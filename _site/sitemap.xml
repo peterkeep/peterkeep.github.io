@@ -13,6 +13,10 @@
 <lastmod>2026-01-14T00:00:00-06:00</lastmod>
 </url>
 <url>
+<loc>http://localhost:4000/2026-01-21-some-interesting-series/</loc>
+<lastmod>2026-01-21T00:00:00-06:00</lastmod>
+</url>
+<url>
 <loc>http://localhost:4000/aboutme/</loc>
 </url>
 <url>
@@ -29,5 +33,8 @@
 </url>
 <url>
 <loc>http://localhost:4000/teaching/</loc>
+</url>
+<url>
+<loc>http://localhost:4000/page2/</loc>
 </url>
 </urlset>
