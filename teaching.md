@@ -4,11 +4,11 @@ title: Teaching
 subtitle: 
 ---
 
-## Classes
+# Classes
 
 I have taught a wide variety of courses, from developmental and general education mathematics to multivariable calculus. Of these courses, I teach the single-variable calculus courses most often. I have compiled some resources for these courses at the website for my textbook: [DiscoverCalculus.com/InstructorResources](https://www.discovercalculus.com/instructorresources.html).
 
-## Course Materials
+# Course Materials
 
 These course materials were created by me for classes that I have taught. They are all written in [PreTeXt](https://www.pretextbook.org) and have open copyrights. They can be used, shared, and adapted to fit into whatever context you would like.
 
