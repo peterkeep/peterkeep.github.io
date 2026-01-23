@@ -17,6 +17,6 @@ These course materials were created by me for classes that I have taught. They a
     * [PDF Download](https://www.discovercalculus.com/pdf/DiscoverCalculus-PeterKeep.pdf)
     * [Source on GitHub](https://github.com/peterkeep/CalculusOER)
 * *Statistics Lab Book and Project*: Lab assignments and project details for a project-based Statistics for Business class
-    * [Website](https://www.peter-keep.com/StatsProject)
+    * [Website](https://www.peter-keep.com/StatsProject/web/)
     * [PDF Download](https://www.peter-keep.com/StatsProject/pdf/StatsLabsProject.pdf)
     * [Source on GitHub](https://github.com/peterkeep/StatsProject)
