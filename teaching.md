@@ -26,7 +26,7 @@ These course materials were created by me for classes that I have taught. They a
             <em>Discover Calculus</em>: A Text for Single-Variable Calculus Topics with Motivating Activities
             <ul>
                 <li>
-                    <a href="https://www.discovercalculus.com" target="_blank">Website</a>
+                    <a href="https://www.discovercalculus.com">Website</a>
                 </li>
                 <li>
                     <a href="https://www.discovercalculus.com/pdf/DiscoverCalculus-PeterKeep.pdf" target="_blank">PDF Download</a>
@@ -53,7 +53,7 @@ These course materials were created by me for classes that I have taught. They a
             <em>Statistics Lab Book and Project</em>: Lab assignments and project details for a project-based Statistics for Business class
             <ul>
                 <li>
-                    <a href="https://www.peter-keep.com/StatsProject/web/" target="_blank">Website</a>
+                    <a href="https://www.peter-keep.com/StatsProject/web/">Website</a>
                 </li>
                 <li>
                     <a href="https://www.peter-keep.com/StatsProject/pdf/StatsLabsProject.pdf" target="_blank">PDF Download</a>
