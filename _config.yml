@@ -9,6 +9,9 @@
 # --- Required options --- #
 ############################
 
+baseurl: ""
+url: "https://www.peter-keep.com"
+
 # Name of website
 title: Peter Keep
 
