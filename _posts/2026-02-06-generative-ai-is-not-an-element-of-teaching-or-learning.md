@@ -94,7 +94,7 @@ It is shameful for any academic institution to embrace generative AI tools in an
 [^EO]: [Executive Order: Accelerating Federal Permitting of Data Center Infrastructure](https://www.whitehouse.gov/presidential-actions/2025/07/accelerating-federal-permitting-of-data-center-infrastructure/)
 [^bill]: [Data Center Growth Could Increase Electricity Bills 8% Nationally and as Much as 25% in Some Regional Markets](https://www.cmu.edu/work-that-matters/energy-innovation/data-center-growth-could-increase-electricity-bills)
 [^NWF]: [More data centers, more environmental problems?](https://www.nwf.org/Magazines/National-Wildlife/2025/Fall/Conservation/AI-Data-Centers)
-[^pollution]: [Fine Particulate Air Pollution from Electricity Generation in the US: Health Impacts by Race, Income, and Geography](pubs.acs.org/doi/10.1021/acs.est.9b02527)
+[^pollution]: [Fine Particulate Air Pollution from Electricity Generation in the US: Health Impacts by Race, Income, and Geography](https://pubs.acs.org/doi/10.1021/acs.est.9b02527)
 [^healthrisk]: [Data Center Boom Risks Health of Already Vulnerable Communities](https://www.techpolicy.press/data-center-boom-risks-health-of-already-vulnerable-communities/)
 [^suits]: [Seven more lawsuits filed against OpenAI for ChatGPT manipulation and ‘suicide coaching’](https://www.transparencycoalition.ai/news/seven-more-lawsuits-filed-against-openai-for-chatgpt-suicide-coaching)
 [^OpenAI]: [Our approach to mental health-related litigation](https://openai.com/index/mental-health-litigation-approach/)
