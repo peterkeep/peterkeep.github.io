@@ -22,9 +22,6 @@ subtitle: Fill out the form below to send me a message.
   --color-primary-active: #404040;
   --color-text-default: #404040;
   --color-text-muted: #404040;
-
-  --font-family-body: Montserrat,sans-serif;
-  --font-family-display: Montserrat,sans-serif;
 }
 
 /** Base **/
@@ -37,7 +34,6 @@ subtitle: Fill out the form below to send me a message.
 
 body {
   -webkit-font-smoothing: antialiased;
-  font-family: var(--font-family-body);
   font-optical-sizing: auto;
   font-style: normal;
 }
@@ -104,12 +100,12 @@ fieldset {
   display: flex;
   flex-direction: column;
   row-gap: 0.5rem;
+  font-family: 'Open Sans', Arial, Helvetica, sans-serif;
 }
 
 .fs-label {
   color: var(--color-text-default);
   display: block;
-  font-family: var(--font-family-display);
   font-size: 1rem;
   line-height: 1.25rem;
 }
@@ -133,13 +129,15 @@ fieldset {
 
 .fs-button {
   background-color: var(--color-primary);
-  border-radius: 9999px;
+  border-radius: 5px;
+  border-color: var(--color-primary);
   color: white;
   cursor: pointer;
-  font-size: 1.125rem;
-  font-weight: 600;
-  line-height: 1.5rem;
-  padding: 0.75rem 2rem;
+  font-size: 1rem;
+  font-weight: 700;
+  font-family: 'Open Sans', Arial, Helvetica, sans-serif;
+  padding: 10px 50px 10px 50px;
+  line-height: 21px !important;
   transition-duration: 200ms;
   transition-property: background-color;
   transition-timing-function: cubic-bezier(0.4, 0, 0.2, 1);
@@ -156,7 +154,7 @@ fieldset {
 .fs-input,
 .fs-select {
   appearance: none;
-  border-radius: 9999px;
+  border-radius: 5px;
   border-width: 0;
   box-shadow: var(--color-border-default) 0 0 0 1px inset;
   color: var(--color-text-default);
@@ -334,7 +332,7 @@ fieldset {
 
 .fs-textarea {
   appearance: none;
-  border-radius: 0.75rem;
+  border-radius: 5px;
   border-width: 0;
   box-shadow: var(--color-border-default) 0 0 0 1px inset;
   color: var(--color-text-default);
