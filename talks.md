@@ -27,6 +27,9 @@ Peter Keep, Matthew Lee\\
 
 # Contributed Talks, Workshops, etc.
 
+* **Generative AI ∉ (Teaching ∪ Learning)**\\
+Peter Keep, Dan Matthews\\
+*Moraine Valley Community College, Faculty and Staff Development Day*, February 2025
 * **Exploring Shifts for Transforming Assessment**\\
 Peter Keep, Kelly Spoon\\
 *AMATYC Conference*, November 2025
