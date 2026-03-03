@@ -1,6 +1,14 @@
 [ 
  
 { 
+"title"    : "Four Colors and Teaching Mathematics", 
+"desc"     : "Four Colors and Teaching Mathematics", 
+"category" : "math, teaching, AI", 
+"url"      : "/2026-03-02-four-colors-and-teaching-mathematics/", 
+"date"     : "March  2, 2026" 
+}, 
+ 
+{ 
 "title"    : "Generative AI ∉ (Teaching ∪ Learning)", 
 "desc"     : "Generative AI ∉ (Teaching ∪ Learning)", 
 "category" : "AI", 
