@@ -19,7 +19,7 @@ These course materials were created by me for classes that I have taught. They a
     left: 0;
     align: center;
     margin: auto;">
-        <a href="https://www.discovercalculus.com"><img src="{{ 'assets/img/DCcover.png' | relative_url }}" alt="Discover Calculus" width="200px"/></a>
+        <a href="https://www.discovercalculus.com"><img src="{{ 'assets/img/DC-front.png' | relative_url }}" alt="Discover Calculus" width="200px"/></a>
     </div>
     <div style="margin-left: 210px; padding-left: 10px;">
         <p>
