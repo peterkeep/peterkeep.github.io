@@ -1,6 +1,14 @@
 [ 
  
 { 
+"title"    : "My Meeting with a Publisher Rep", 
+"desc"     : "My Meeting with a Publisher Rep", 
+"category" : "math, teaching, OER", 
+"url"      : "/2026-03-14-my-meeting-with-a-publisher-rep/", 
+"date"     : "March 14, 2026" 
+}, 
+ 
+{ 
 "title"    : "Four Colors and Teaching Mathematics", 
 "desc"     : "Four Colors and Teaching Mathematics", 
 "category" : "math, teaching, AI", 
@@ -110,6 +118,14 @@
 "desc"     : "Peter Keep", 
 "category" : "page", 
 "url"      : "/page2/", 
+"date"     : "January 1, 1970" 
+}, 
+ 
+{ 
+"title"    : "Peter Keep", 
+"desc"     : "Peter Keep", 
+"category" : "page", 
+"url"      : "/page3/", 
 "date"     : "January 1, 1970" 
 } 
  
