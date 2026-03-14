@@ -9,7 +9,7 @@ author: Peter Keep
 mathjax: yes
 ---
 
-This post is based on something I wrote on social media that I wanted to expand on a bit. You can read the thread on BlueSky here, but I have some more thoughts.
+This post is based on something I wrote on social media that I wanted to expand on a bit. You can read the thread on Bluesky here, but I have some more thoughts.
 
 <blockquote class="bluesky-embed" data-bluesky-uri="at://did:plc:o4kwpag2v3p6qd3ptdr3bmtk/app.bsky.feed.post/3mguejjbv6c25" data-bluesky-cid="bafyreihmsgkhdvb2e6hkuoe65k45cgnzh5o7i4hpjv2wcsfryn3io5ukzq" data-bluesky-embed-color-mode="light"><p lang="en">A bit ago I sat in a meeting with a publisher sales rep where they demonstrated their new online platform for calculus. It&#x27;s one of the major publishers and it&#x27;s used on campus in other math classes, and it ended up being another reminder of how disconnected these ed tech people are from teaching. 🧵</p>&mdash; Peter Keep (<a href="https://bsky.app/profile/did:plc:o4kwpag2v3p6qd3ptdr3bmtk?ref_src=embed">@mathprofpeter.bsky.social</a>) <a href="https://bsky.app/profile/did:plc:o4kwpag2v3p6qd3ptdr3bmtk/post/3mguejjbv6c25?ref_src=embed">Mar 12, 2026 at 7:09 AM</a></blockquote><script async src="https://embed.bsky.app/static/embed.js" charset="utf-8"></script>
 
