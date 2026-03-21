@@ -54,7 +54,7 @@ So it's not like I think these questions are meaningless. But I did ask the rep 
 
 The last part of the call was a demonstration of the graphing utility by looking at a polar function. The prompt was to plot a function like \\(r(\theta)=\sin(2\theta)\\). In the graphing utility, I was presented with some options for the general shape of this graph: a flower, a spiral, a circle, and a cardioid. I might be misremembering, but you get the idea.
 
-When I selected the flower shape, I was asked about the specific graph, like the number of flowers and some key points. Once I input that, I pasted the pre-built shape into the polar plane.
+When I selected the flower shape, I was asked about the specific graph, like the number of "petals" and some key points. Once I input that, I pasted the pre-built shape into the polar plane.
 
 I asked some questions, and found that the goal was to create a graphing utility that can test students on building graphs of polar functions without students sketching it with their pencils. This was a kind of halfway point between drawing the graph by hand and plotting it by typing `r=sin(2theta)` into Desmos. I had been pretty negative in my feedback throughout the meeting (and I know that I don't do a good job of masking my facial expressions), so I tried to be a little bit more positive here. But in the end, I was left explaining that I just do not care about my students plotting functions by hand in a calculus class. And this just opened up a conversation (that I kept short for both my sake and the sales rep's sake) about goals and objectives in teaching.
 
