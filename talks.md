@@ -18,8 +18,8 @@ Below, you'll find some information about some of my interests, as well as prese
 # Invited Talks, Workshops, etc.
 
 * **Accessibility in Math Panel** (Upcoming)\\
-*Open Oregon Educational Resources*, TBA
-* **Making Math Accessible** (Upcoming)\\
+*Open Oregon Educational Resources*, April 2026
+* **Making Math Accessible**\\
 *FLVC OER Bootcamp*, March 2026
 * **Critical Thinking in the Classroom**\\
 *Moraine Valley Community College, New Faculty Orientation*, December 2023
