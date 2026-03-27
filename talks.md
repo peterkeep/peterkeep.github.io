@@ -17,7 +17,7 @@ Below, you'll find some information about some of my interests, as well as prese
 
 # Invited Talks, Workshops, etc.
 
-* **Accessibility in Math Panel** (Upcoming)\\
+* **Accessible Open Math** (Upcoming)\\
 *Open Oregon Educational Resources*, April 2026
 * **Making Math Accessible**\\
 *FLVC OER Bootcamp*, March 2026
