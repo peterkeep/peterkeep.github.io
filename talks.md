@@ -18,6 +18,7 @@ Below, you'll find some information about some of my interests, as well as prese
 # Invited Talks, Workshops, etc.
 
 * **Accessible Open Math** (Upcoming)\\
+Hillary Abbott, Brenda Gardner, Peter Keep, Leanne Merrill\\
 *Open Oregon Educational Resources*, April 2026
 * **Making Math Accessible**\\
 *FLVC OER Bootcamp*, March 2026
