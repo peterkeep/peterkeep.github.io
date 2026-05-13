@@ -270,7 +270,7 @@ timezone: "America/Chicago"
 markdown: kramdown
 highlighter: rouge
 permalink: /:year-:month-:day-:title/
-paginate: 3
+paginate: 4
 
 kramdown:
   input: GFM
