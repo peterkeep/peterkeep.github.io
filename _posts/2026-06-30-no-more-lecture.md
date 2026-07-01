@@ -4,7 +4,7 @@ title: No More Lecture
 subtitle: Using my time with my students more effectively
 thumbnail-img: 
 share-img: 
-tags: [teaching, math]
+tags: [teaching]
 author: Peter Keep
 mathjax: no
 ---
@@ -34,7 +34,7 @@ And this summer is the summer! I've wound down some other projects I was working
 
 # How Do You Use Your Time?
 
-How are you and your students spending the small amount of time that you have together? I don't mean to try to force everyone to spend their class time exactly like I do: I don't think scripting your class sessions to match some preset format is useful. Instead, I hope that you and I both can continue to think about how we use our time with students. This framing is helpful to me: when I used to think about how I presented content, I was getting hung up on which examples to show or how to word definitions or how to order the results. When I think about how I want to spend time with students, the answer is easy!
+How are you and your students spending the small amount of time that you have together? I don't mean to try to force everyone to spend their class time exactly like I do: I don't think scripting your class sessionNo More Lectures to match some preset format is useful. Instead, I hope that you and I both can continue to think about how we use our time with students. This framing is helpful to me: when I used to think about how I presented content, I was getting hung up on which examples to show or how to word definitions or how to order the results. When I think about how I want to spend time with students, the answer is easy!
 
 I want to model precise communication and have them practice precise communication. I want them to go through the process of thinking carefully about mathematical objects and ideas with each other, even (especially?) the parts where we get stuck thinking about them.
 
