@@ -100,8 +100,8 @@ rss-description: Peter Keep's personal website and blog.
 # Select which social network share links to show in posts
 share-links-active:
   twitter: false
-  facebook: false
-  linkedin: false
+  facebook: true
+  linkedin: true
   vk: false
   reddit: false
   bluesky: true

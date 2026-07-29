@@ -31,7 +31,17 @@
 {% if any-share-links %}
 <section id = "social-share-section">
   <div>
-  <!-- <span style="font-size: 100%">Share: </span> -->
+  <span class="subscribe" style="font-size: 100%">Share on: </span>
+
+ {% if site.share-links-active.bluesky %}
+    <span class="subscribe"><a href="https://bsky.app/intent/compose?text={{ page.title | strip_html | url_encode }}%0A{{ page.url | absolute_url | url_encode }}"
+      class="subscribe" title="Share on BlueSky" target="_blank">
+      <span class="fab fa-fw fa-bluesky" aria-hidden="true" style="font-size:100%;"></span>
+      <span class="subscribe">BlueSky</span>
+      <span class="sr-only">BlueSky</span> 
+    </a>
+    </span>  &nbsp;
+  {% endif %}
 
   {% if site.share-links-active.twitter %}
     <a href="https://twitter.com/intent/tweet?text={{ page.title | strip_html | url_encode }}&url={{ page.url | absolute_url | url_encode }}"
@@ -42,19 +52,23 @@
   {% endif %}
 
   {% if site.share-links-active.facebook %}
-    <a href="https://www.facebook.com/sharer/sharer.php?u={{ page.url | absolute_url | url_encode }}"
-      class="btn btn-social-icon btn-facebook" title="Share on Facebook">
-      <span class="fab fa-fw fa-facebook" aria-hidden="true"></span>
+    <span class="subscribe"><a href="https://www.facebook.com/sharer/sharer.php?u={{ page.url | absolute_url | url_encode }}"
+      class="subscribe" title="Share on Facebook"> 
+      <span class="fab fa-fw fa-facebook" aria-hidden="true" style="font-size:100%;"></span>
+      <span class="subscribe">Facebook</span>
       <span class="sr-only">Facebook</span>
     </a>
+    </span> &nbsp;
   {% endif %}
 
   {% if site.share-links-active.linkedin %}
-    <a href="https://www.linkedin.com/shareArticle?mini=true&url={{ page.url | absolute_url | url_encode }}"
-      class="btn btn-social-icon btn-linkedin" title="Share on LinkedIn">
-      <span class="fab fa-fw fa-linkedin" aria-hidden="true"></span>
+    <span class="subscribe"><a href="https://www.linkedin.com/shareArticle?mini=true&url={{ page.url | absolute_url | url_encode }}"
+      class="subscribe" title="Share on LinkedIn">
+      <span class="fab fa-fw fa-linkedin" aria-hidden="true" style="font-size:100%;"></span>
+      <span class="subscribe">LinkedIn</span>
       <span class="sr-only">LinkedIn</span>
     </a>
+    </span> &nbsp;
   {% endif %}
 
   {% if site.share-links-active.vk %}
@@ -63,16 +77,6 @@
       <span class="fab fa-fw fa-vk" aria-hidden="true"></span>
       <span class="sr-only">VK</span>
     </a>
-  {% endif %}
-
-  {% if site.share-links-active.bluesky %}
-    <span class="subscribe"><a href="https://bsky.app/intent/compose?text={{ page.title | strip_html | url_encode }}%0A{{ page.url | absolute_url | url_encode }}"
-      class="subscribe" title="Share on BlueSky" target="_blank">
-      <span class="fab fa-fw fa-bluesky" aria-hidden="true" style="font-size:100%; color:#41ADFF;"></span>
-      <span class="subscribe">Share on Bluesky</span>
-      <span class="sr-only">Bluesky</span> 
-    </a>
-    </span>
   {% endif %}
 
   {% if site.share-links-active.reddit %}
