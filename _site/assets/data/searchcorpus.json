@@ -1,6 +1,22 @@
 [ 
  
 { 
+"title"    : "No More Lecture", 
+"desc"     : "No More Lecture", 
+"category" : "teaching", 
+"url"      : "/2026-06-30-no-more-lecture/", 
+"date"     : "June 30, 2026" 
+}, 
+ 
+{ 
+"title"    : "Reflections on the Academic Year", 
+"desc"     : "Reflections on the Academic Year", 
+"category" : "teaching, grading, OER", 
+"url"      : "/2026-05-13-reflections-on-semester-humanity/", 
+"date"     : "May 13, 2026" 
+}, 
+ 
+{ 
 "title"    : "Iterations of Homework Policies", 
 "desc"     : "Iterations of Homework Policies", 
 "category" : "teaching, grading", 
