@@ -15,7 +15,7 @@ sitemap: false
 
 # Archived
 
-*Spring 2026
+* Spring 2026
     * [MTH 150 - Calculus I](https://www.peter-keep.com/syllabi/archived/26-01-SP-150-Syllabus.pdf)
     * [MTH 151 - Calculus II](https://www.peter-keep.com/syllabi/archived/26-01-SP-151-Syllabus.pdf)
 * Fall 2025
