@@ -17,6 +17,9 @@ Below, you'll find some information about some of my interests, as well as prese
 
 # Invited Talks, Workshops, etc.
 
+* **Pre-Calculus and Beyond ANet at NYSMATYC**\\
+Peter Keep, Kelly Spoon, Keith Nabb\\
+*NYSMATIC Fall Webinar*, September 2026
 * **Accessible Open Math**\\
 Brenda Gardner, Peter Keep, Leanne Merrill\\
 *Open Oregon Educational Resources*, April 2026
