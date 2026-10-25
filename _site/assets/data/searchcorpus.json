@@ -1,6 +1,14 @@
 [ 
  
 { 
+"title"    : "Notes on Math Culture", 
+"desc"     : "Notes on Math Culture", 
+"category" : "math, AI, teaching", 
+"url"      : "/2026-10-24-math-culture/", 
+"date"     : "October 24, 2026" 
+}, 
+ 
+{ 
 "title"    : "No More Lecture", 
 "desc"     : "No More Lecture", 
 "category" : "teaching", 
