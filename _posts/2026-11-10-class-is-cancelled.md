@@ -33,7 +33,7 @@ We can move ever-closer to some impossible goal.
 <p>
 I hope you think about how, sometimes, <br/>
 It is helpful to focus on how something will change <br/>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; (of even that it will change at all) <br/>
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; (or even that it will change at all) <br/>
 Instead of focusing on the state it is currently in.
 </p>
 
@@ -66,6 +66,6 @@ When we are together.
 </p>
 
 <div class="box-note">
-   This poem was originally sent as a message to my students, and then was published in the <a href="https://www.amatyc.org/publications/mathamatyc-educator/spring-2025-volume-16-number-3/" target="_blank">MathAMATYC Educator</a>.
+   This poem was originally sent as a message to my students in March 2025, and then was published in the <a href="https://www.amatyc.org/publications/mathamatyc-educator/spring-2025-volume-16-number-3/" target="_blank">MathAMATYC Educator</a>.
 </div>
 
