@@ -1,183 +1,138 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/">
-  <channel>
-    
-    <title>Peter Keep</title>
-    
-    
-    <description>Peter Keep&apos;s personal website and blog.</description>
-    
-    <link>http://localhost:4000/</link>
-    <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml" />
-    
-    
-      <item>
-        <title>A College is a Collective</title>
-        
-        <dc:creator><![CDATA[ Peter Keep ]]></dc:creator>
-        
-        <description>
-          It&apos;s hard to remember, but there are more of us than we sometimes think. ---- 
-          It’s hard to remember, but there are more of us than I sometimes think. Every time, I get surprised when there are more of us than just me and the people I confide in. Ok, let’s back up and add some context. A handful of faculty at my college were awarded a grant to work on some open educational resources for our courses. I talked about this a bit before, but it’s the grant that allowed me to write Discover Calculus. Anyways, the grant has concluded and projects are “finished” (as if anything in the OER space is ever fully finished), and now we’re being asked to talk about our experiences or projects every now and then. So I guess I wasn’t too surprised when we were each asked to give a short, 3 minute update on our projects at the yearly All-Faculty meeting this Fall semester. The All-Faculty meeting is a yearly chance for the Vice President of Academic Affairs to set an agenda to address whatever major topics they’d like to designate as focal points for the academic year. This year, the topics were Accessibility, Assessment, Affordability, and AI. The faculty from the OER grant would represent the...
-        </description>
-        <pubDate>Wed, 04 Nov 2026</pubDate>
-        <link>http://localhost:4000/2026-11-04-a-college-is-a-collective/</link>
-        <guid isPermaLink="true">http://localhost:4000/2026-11-04-a-college-is-a-collective/</guid>
-      </item>
-    
-      <item>
-        <title>Notes on Math Culture</title>
-        
-        <dc:creator><![CDATA[ Peter Keep ]]></dc:creator>
-        
-        <description>
-          
-          Note: The following are pieces of writing that I’ve put together over the past month and change from a variety of uses, and have been edited to fit into a blog post. August 30, 20261 The semester is starting well! I’m teaching familiar classes and I’m getting to know unfamiliar students. Each group of students is different, and each semester has its own unique characteristics, but some things are consistent. Here’s one: After class this week, one of the students in my class hung around to ask about some class policies and grade stuff. “What’s the best way to do homework in this class?” they asked. I’ll get more of these consistent questions soon: “What’s the best way to study?” or “What else should I be doing at home?” or even “Am I taking notes the right way?” These questions aren’t unique to my classes. Students everywhere are trying, in their introduction to college, to figure out what it means to be a college student. This isn’t going to be a note about students where I start complaining about “kids these days” and “college readiness” and “back when I was a student.” Instead, it’s a note where I acknowledge the...
-        </description>
-        <pubDate>Sat, 24 Oct 2026</pubDate>
-        <link>http://localhost:4000/2026-10-24-math-culture/</link>
-        <guid isPermaLink="true">http://localhost:4000/2026-10-24-math-culture/</guid>
-      </item>
-    
-      <item>
-        <title>No More Lecture</title>
-        
-        <dc:creator><![CDATA[ Peter Keep ]]></dc:creator>
-        
-        <description>
-          Using my time with my students more effectively ---- 
-          Ok, this is a pretty big title. To be honest, I’m less interested in contributing to the larger-scale discourse on active learning vs direct instruction. I’m more interested in trying to make my teaching a bit more cohesive, fitting into the themes I’m trying to build throughout a short semester with students. Two important ones that I think about a lot are: Mathematics is more about what and how we precisely communicate than it is about what and how we accurately calculate. Mathematics is a human endeavor, able to be done for and by everyone. The way I use class time, then, is really impacted by both of these. If I think mathematics is about precise communication, then I want students to practice this kind of activity. If I think mathematics can be done by everyone, then I want to give my students the opportunities to do mathematics. The only time in their schedule that I have control over is the time they spend in my classroom, so I’ve tried to set up that space to allow students to do both of these things! Consistency, Finally Prior to 2018, I was lecturing for much of the time in my class...
-        </description>
-        <pubDate>Tue, 30 Jun 2026</pubDate>
-        <link>http://localhost:4000/2026-06-30-no-more-lecture/</link>
-        <guid isPermaLink="true">http://localhost:4000/2026-06-30-no-more-lecture/</guid>
-      </item>
-    
-      <item>
-        <title>Reflections on the Academic Year</title>
-        
-        <dc:creator><![CDATA[ Peter Keep ]]></dc:creator>
-        
-        <description>
-          Thoughts on my classroom and the students that filled it. ---- 
-          It’s the end of the ‘25-‘26 Academic Year, and I’m trying to take a bit of time to reflect on the semester and the year as a whole. Most of the time, my reflections are only meant for myself, scribbled down in my notebook for me to look back on as I prep for future semester. This year, though, I’m trying to share some portions of those. There are a lot of things that I’ll be thinking about this summer as I prep for the Fall semester, and I’ve already shared some of that thinking. I have already written about my homework policy on this blog (Iterations of Homework Policies), and I shared some of my thoughts while I was grading the end-of-semester assignments that my students submitted. Thread of my grading progress (by number of assignments) from now until I finish: 0/14&amp;mdash; Peter Keep (@mathprofpeter.bsky.social) May 8, 2026 at 9:13 AM For this post I’ll mostly be thinking about only a couple of things: the class materials I’m using, the classroom activities I’ve been using, and the classroom culture that I want to build. Class Materials This year I was able to pilot using my own OER text in...
-        </description>
-        <pubDate>Wed, 13 May 2026</pubDate>
-        <link>http://localhost:4000/2026-05-13-reflections-on-semester-humanity/</link>
-        <guid isPermaLink="true">http://localhost:4000/2026-05-13-reflections-on-semester-humanity/</guid>
-      </item>
-    
-      <item>
-        <title>Iterations of Homework Policies</title>
-        
-        <dc:creator><![CDATA[ Peter Keep ]]></dc:creator>
-        
-        <description>
-          All of my failed attempts at making a homework policy that makes sense. ---- 
-          We’re coming up to the end of the Spring semester and the end of the 2025-2026 academic year (technically the Summer 2026 semester is included, but I’m not teaching this summer, so this is the end of the teaching year for me). I normally try to take some time to reflect on the year. It’s a good time for me to revisit the way I try to build a classroom culture, or what I can do to focus on students’ humanity, or some aspect of my syllabus that is still bugging me. And so I’m thinking about homework policies again. Photo by Luka Savcic on Unsplash What Do I Want from a Homework Policy? I want a bunch of things to be true in how homework is treated in my classes. I want homework to be used as low-stakes, or no-stakes, practice. I want the homework to be flexible enough that students aren’t stressed or pressured to be completing these constantly. If life events happen, and a student needs to take a small break from focusing on my class, I want that to be reasonable. So I’m not looking for hard deadlines, and I’m not looking to have a super...
-        </description>
-        <pubDate>Fri, 17 Apr 2026</pubDate>
-        <link>http://localhost:4000/2026-04-17-iterations-of-homework-policies/</link>
-        <guid isPermaLink="true">http://localhost:4000/2026-04-17-iterations-of-homework-policies/</guid>
-      </item>
-    
-      <item>
-        <title>My Meeting with a Publisher Rep</title>
-        
-        <dc:creator><![CDATA[ Peter Keep ]]></dc:creator>
-        
-        <description>
-          Ed-Tech is seemingly working towards the opposite goals that I&apos;m working towards. ---- 
-          This post is based on something I wrote on social media that I wanted to expand on a bit. You can read the thread on Bluesky here, but I have some more thoughts. A bit ago I sat in a meeting with a publisher sales rep where they demonstrated their new online platform for calculus. It&amp;#x27;s one of the major publishers and it&amp;#x27;s used on campus in other math classes, and it ended up being another reminder of how disconnected these ed tech people are from teaching. 🧵&amp;mdash; Peter Keep (@mathprofpeter.bsky.social) Mar 12, 2026 at 7:09 AM I’ll likely repeat some of the stuff in this thread, so sorry for the redundancy. Setting up the Meeting A well-known phenomena in higher ed has been happening to me more often lately: publishers sending a rep to my office to talk to me about whatever new products they’re trying to push. Some online homework suite. A course management platform that is somehow different enough than everything else that it will be the one that will work. Here’s a product to make teaching online classes better (based on a very specific definition of “better”)! Maybe publishers are putting more energy into their sales...
-        </description>
-        <pubDate>Sat, 14 Mar 2026</pubDate>
-        <link>http://localhost:4000/2026-03-14-my-meeting-with-a-publisher-rep/</link>
-        <guid isPermaLink="true">http://localhost:4000/2026-03-14-my-meeting-with-a-publisher-rep/</guid>
-      </item>
-    
-      <item>
-        <title>Four Colors and Teaching Mathematics</title>
-        
-        <dc:creator><![CDATA[ Peter Keep ]]></dc:creator>
-        
-        <description>
-          What the Four Color Theorem and its history tells us about the role of humans and proof in mathematics education. ---- 
-          I was reminded of the Four Color Theorem the other day. I wasn’t thinking about maps. I wasn’t thinking about about graphs of any kind, honestly. I was being asked a question about AI and calculators. See, I was wrapping up a talk with a coworker at our college’s Professional Development Day, titled Generative AI ∉ (Teaching ∪ Learning). And near the end, when we were answering some questions, one of my colleagues asked me what I thought about the claim (that they did not personally believe) that LLMs like ChatGPT are just “calculators for writing.” And it brought up a lot of feelings: there was my knee-jerk reaction that calculators aren’t being used to sexually harass women on social media sites, and our government isn’t trying to co-opt calculators as a way of surveilling our country’s population or plan and execute a terrorist attack on Iran. But then I also started thinking about how generative AI is being used in mathematics, and how, unlike a calculator, it undermines much of the things about mathematics that a large portion of the mathematics community values most. On February 24, the Atlantic released an interview with Terence Tao by Matteo Wong about...
-        </description>
-        <pubDate>Mon, 02 Mar 2026</pubDate>
-        <link>http://localhost:4000/2026-03-02-four-colors-and-teaching-mathematics/</link>
-        <guid isPermaLink="true">http://localhost:4000/2026-03-02-four-colors-and-teaching-mathematics/</guid>
-      </item>
-    
-      <item>
-        <title>Generative AI ∉ (Teaching ∪ Learning)</title>
-        
-        <dc:creator><![CDATA[ Peter Keep ]]></dc:creator>
-        
-        <description>
-          There are no ethical use cases for generative AI in higher education ---- 
-          My college hosts a professional development day every semester for faculty and staff, and this semester’s is…interesting. There’s a theme for the day, normally something connected loosely with a recent college goal or broad focus. This semester, it’s “Approaching AI with Teamwork and Heart.” I got this theme in an email along with a call for presentation proposals, so you can bet that I shot a message to a friend on campus, asking if they wanted to co-present something with the following description: “There are no ethical use cases for generative AI in higher education. In this presentation, we’ll discuss a host of ethical reasons why generative AI tools are not elements of teaching or learning and how the use of generative AI is fundamentally at odds with our students’ agency as well as their humanity.” I’m going to use this post to collect some notes and references as I prepare for this session (if it gets accepted). Data Security and Privacy Legal experts warn that user-facing generative AI tools should be considered insecure, and that even with confidentiality agreements there is little guarantee that inputted data will remain private.1 Ed tech companies have failed to keep students’ data secure2...
-        </description>
-        <pubDate>Fri, 06 Feb 2026</pubDate>
-        <link>http://localhost:4000/2026-02-06-generative-ai-is-not-an-element-of-teaching-or-learning/</link>
-        <guid isPermaLink="true">http://localhost:4000/2026-02-06-generative-ai-is-not-an-element-of-teaching-or-learning/</guid>
-      </item>
-    
-      <item>
-        <title>Two Fun Infinite Series</title>
-        
-        <dc:creator><![CDATA[ Peter Keep ]]></dc:creator>
-        
-        <description>
-          
-          I love teaching Calculus II. It hits the perfect sweet-spot of “has really cool mathematics” and “always available to teach,” since we run multiple sections of it every semester and, apparently, nobody else in my department really likes teaching it that much. Weird. Anyways, it’s my favorite class to teach. I have made a decent number of changes to the course over the past 10 years, really trying to build up the themes of the course (Approximation! Accumulation!) and make them explicit to students. But sometimes that means that some other little aspect of the course gets cut or diminished. This post is about some of my favorite little problems to pitch to students that I don’t get near enough time to chat about with my students. Some Infinite Series Ok, let’s look at some of my favorite little series problems. I don’t think I came up with any of these, and I’m sure they were borrowed from other people or derived from other people’s examples. First, though, some preliminaries. The Harmonic Series: The series of reciprocals is called the Harmonic series: $$ \sum_{k=1}^\infty \frac{1}{k} = 1 + \frac{1}{2}+\frac{1}{3}+\frac{1}{4} + ... $$ An introductory calculus student will find pretty quickly...
-        </description>
-        <pubDate>Wed, 21 Jan 2026</pubDate>
-        <link>http://localhost:4000/2026-01-21-some-interesting-series/</link>
-        <guid isPermaLink="true">http://localhost:4000/2026-01-21-some-interesting-series/</guid>
-      </item>
-    
-      <item>
-        <title>Organizing my Syllabus</title>
-        
-        <dc:creator><![CDATA[ Peter Keep ]]></dc:creator>
-        
-        <description>
-          Using PreTeXt and GitHub to make the clickiest part of the semester less annoying. ---- 
-          The week before a semester starts is the worst. There are mandatory meetings about “important issues” that have absolutely nothing to do with me and my job. There are meetings about stressful things that have lots to do with me and my job. There are emails and enrollment numbers and course preparation and crises. And the part that I put off the most are the “clicky” things. “Clicky” things, to me, are the types of tasks that you complete by clicking and typing and navigating through menus and stuff like that. Often these are things that happen on Canvas, the Learning Management System that my college uses. I change dates for assignments1. I change dates in pages. I change the order of links to resources. I change the wording in the Outcomes. I rename whole sections of links because I changed the wording of an Outcome. I have to upload new copies of my syllabus and schedule by, you guessed it, clicking through a menu and then clicking through my files. Photo credit: Jeswin Thomas/Unsplash There are clicky tasks elsewhere, too. In my syllabus document. It’s a huge document, now. There are college policies and departmental policies and state-mandated sections....
-        </description>
-        <pubDate>Wed, 14 Jan 2026</pubDate>
-        <link>http://localhost:4000/2026-01-14-organizing-my-syllabus/</link>
-        <guid isPermaLink="true">http://localhost:4000/2026-01-14-organizing-my-syllabus/</guid>
-      </item>
-    
-      <item>
-        <title>OER as Resistance</title>
-        
-        <dc:creator><![CDATA[ Peter Keep ]]></dc:creator>
-        
-        <description>
-          
-          This summer, I presented at an Open Educational Resources conference in my state about a project I’ve been working on: an open source, open copyright textbook for the typical single variable calculus sequence (Calculus I and Calculus II). This post isn’t about my project. It’s about what happened at that conference. I presented late in the conference, which meant that I had a day and a half of listening to other people talk about OER, the services that they offer on their campus, the ideas that they have for sustaining OER infrastructure in our state, or the incredible projects that they’ve built. And there was an obvious, though unofficial, theme. Almost every presentation that I saw had some metric to calculate cost savings: savings for their school, savings for their department, savings for their students, etc. Something about seeing this brought up over and over picked away at me, until it was my turn to give my talk. So, near the beginning of my talk, I told the truth. “OER has never been about affordability or cost savings for me.” After I told that truth, I said, “OER has always been about academic freedom for me.” I talked about the...
-        </description>
-        <pubDate>Wed, 07 Jan 2026</pubDate>
-        <link>http://localhost:4000/2026-01-07-OER-as-resistance/</link>
-        <guid isPermaLink="true">http://localhost:4000/2026-01-07-OER-as-resistance/</guid>
-      </item>
-    
-      <item>
-        <title>Introduction</title>
-        
-        <dc:creator><![CDATA[ Peter Keep ]]></dc:creator>
-        
-        <description>
-          What am I even doing here, and why does this exist? ---- 
-          It’s 2026, and I’m 20 years behind in starting a blog! So what am I doing with this blog and why does it exist? It really comes down to one truth about me and one truth about the world. I like talking about math and education and math education I mostly have been talking about these topics in three contexts: Online, with my friends. In-person, with my friends. In class, with my students. These three contexts have worked out really well: I love my friends, I love my students, and I love hanging around with both (online and in-person)! But something has been happening with the online spaces that I use to talk to both students and friends. The world (and the Internet, especially) is easily manipulated by awful (powerful) people These spaces have essentially always been controlled by big-tech and ed-tech companies, but recently that control has been both much more noticeable and much more hostile. Social media platforms are being tuned to algorithmically induce rage in its userbase. Generative AI tools are flooding the internet with slop. Learning Management Software is being filled with bloat. So this blog is a small way for me to take a subset...
-        </description>
-        <pubDate>Fri, 02 Jan 2026</pubDate>
-        <link>http://localhost:4000/2026-01-02-introduction/</link>
-        <guid isPermaLink="true">http://localhost:4000/2026-01-02-introduction/</guid>
-      </item>
-    
-  </channel>
+<rss version="2.0"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+>
+	<channel>
+		<title></title>
+		<description></description>		
+		<sy:updatePeriod>daily</sy:updatePeriod>
+		<sy:updateFrequency>1</sy:updateFrequency>
+		<link>http://localhost:4000</link>
+		<atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml" />
+		<lastBuildDate>Tue, 10 Nov 2026 00:00:00 -0600</lastBuildDate>
+		
+		
+			<item>
+				<title>Class is Cancelled</title>
+				
+				
+					<description>&lt;p&gt;Hi all,&lt;/p&gt;
+</description>
+				
+				<pubDate>Tue, 10 Nov 2026 00:00:00 -0600</pubDate>
+				<link>http://localhost:4000/2026-11-10-class-is-cancelled/</link>
+				<guid isPermaLink="true">http://localhost:4000/2026-11-10-class-is-cancelled/</guid>
+			</item>
+		
+			<item>
+				<title>A College is a Collective</title>
+				
+				
+					<description>&lt;p&gt;It’s hard to remember, but there are more of us than I sometimes think. Every time, I get surprised when there are more of us than just me and the people I confide in.&lt;/p&gt;
+</description>
+				
+				<pubDate>Wed, 04 Nov 2026 00:00:00 -0600</pubDate>
+				<link>http://localhost:4000/2026-11-04-a-college-is-a-collective/</link>
+				<guid isPermaLink="true">http://localhost:4000/2026-11-04-a-college-is-a-collective/</guid>
+			</item>
+		
+			<item>
+				<title>Notes on Math Culture</title>
+				
+				
+					<description>&lt;p class=&quot;box-note&quot;&gt;&lt;strong&gt;Note:&lt;/strong&gt; The following are pieces of writing that I’ve put together over the past month and change from a variety of uses, and have been edited to fit into a blog post.&lt;/p&gt;
+</description>
+				
+				<pubDate>Sat, 24 Oct 2026 00:00:00 -0500</pubDate>
+				<link>http://localhost:4000/2026-10-24-math-culture/</link>
+				<guid isPermaLink="true">http://localhost:4000/2026-10-24-math-culture/</guid>
+			</item>
+		
+			<item>
+				<title>No More Lecture</title>
+				
+				
+					<description>&lt;p&gt;Ok, this is a pretty big title. To be honest, I’m less interested in contributing to the larger-scale discourse on active learning vs direct instruction. I’m more interested in trying to make my teaching a bit more cohesive, fitting into the themes I’m trying to build throughout a short semester with students. Two important ones that I think about a lot are:&lt;/p&gt;
+</description>
+				
+				<pubDate>Tue, 30 Jun 2026 00:00:00 -0500</pubDate>
+				<link>http://localhost:4000/2026-06-30-no-more-lecture/</link>
+				<guid isPermaLink="true">http://localhost:4000/2026-06-30-no-more-lecture/</guid>
+			</item>
+		
+			<item>
+				<title>Reflections on the Academic Year</title>
+				
+				
+					<description>&lt;p&gt;It’s the end of the ‘25-‘26 Academic Year, and I’m trying to take a bit of time to reflect on the semester and the year as a whole. Most of the time, my reflections are only meant for myself, scribbled down in my notebook for me to look back on as I prep for future semester. This year, though, I’m trying to share some portions of those.&lt;/p&gt;
+</description>
+				
+				<pubDate>Wed, 13 May 2026 00:00:00 -0500</pubDate>
+				<link>http://localhost:4000/2026-05-13-reflections-on-semester-humanity/</link>
+				<guid isPermaLink="true">http://localhost:4000/2026-05-13-reflections-on-semester-humanity/</guid>
+			</item>
+		
+			<item>
+				<title>Iterations of Homework Policies</title>
+				
+				
+					<description>&lt;p&gt;We’re coming up to the end of the Spring semester and the end of the 2025-2026 academic year (technically the Summer 2026 semester is included, but I’m not teaching this summer, so this is the end of the teaching year for me). I normally try to take some time to reflect on the year. It’s a good time for me to revisit the way I try to build a classroom culture, or what I can do to focus on students’ humanity, or some aspect of my syllabus that is still bugging me.&lt;/p&gt;
+</description>
+				
+				<pubDate>Fri, 17 Apr 2026 00:00:00 -0500</pubDate>
+				<link>http://localhost:4000/2026-04-17-iterations-of-homework-policies/</link>
+				<guid isPermaLink="true">http://localhost:4000/2026-04-17-iterations-of-homework-policies/</guid>
+			</item>
+		
+			<item>
+				<title>My Meeting with a Publisher Rep</title>
+				
+				
+					<description>&lt;p&gt;This post is based on something I wrote on social media that I wanted to expand on a bit. You can read the thread on Bluesky here, but I have some more thoughts.&lt;/p&gt;
+</description>
+				
+				<pubDate>Sat, 14 Mar 2026 00:00:00 -0500</pubDate>
+				<link>http://localhost:4000/2026-03-14-my-meeting-with-a-publisher-rep/</link>
+				<guid isPermaLink="true">http://localhost:4000/2026-03-14-my-meeting-with-a-publisher-rep/</guid>
+			</item>
+		
+			<item>
+				<title>Four Colors and Teaching Mathematics</title>
+				
+				
+					<description>&lt;p&gt;I was reminded of the Four Color Theorem the other day. I wasn’t thinking about maps. I wasn’t thinking about about graphs of any kind, honestly.&lt;/p&gt;
+</description>
+				
+				<pubDate>Mon, 02 Mar 2026 00:00:00 -0600</pubDate>
+				<link>http://localhost:4000/2026-03-02-four-colors-and-teaching-mathematics/</link>
+				<guid isPermaLink="true">http://localhost:4000/2026-03-02-four-colors-and-teaching-mathematics/</guid>
+			</item>
+		
+			<item>
+				<title>Generative AI ∉ (Teaching ∪ Learning)</title>
+				
+				
+					<description>&lt;p&gt;My college hosts a professional development day every semester for faculty and staff, and this semester’s is…interesting. There’s a theme for the day, normally something connected loosely with a recent college goal or broad focus. This semester, it’s “Approaching AI with Teamwork and Heart.”&lt;/p&gt;
+</description>
+				
+				<pubDate>Fri, 06 Feb 2026 00:00:00 -0600</pubDate>
+				<link>http://localhost:4000/2026-02-06-generative-ai-is-not-an-element-of-teaching-or-learning/</link>
+				<guid isPermaLink="true">http://localhost:4000/2026-02-06-generative-ai-is-not-an-element-of-teaching-or-learning/</guid>
+			</item>
+		
+			<item>
+				<title>Two Fun Infinite Series</title>
+				
+				
+					<description>&lt;p&gt;I love teaching Calculus II. It hits the perfect sweet-spot of “has really cool mathematics” and “always available to teach,” since we run multiple sections of it every semester and, apparently, nobody else in my department really likes teaching it that much. Weird. Anyways, it’s my favorite class to teach.&lt;/p&gt;
+</description>
+				
+				<pubDate>Wed, 21 Jan 2026 00:00:00 -0600</pubDate>
+				<link>http://localhost:4000/2026-01-21-some-interesting-series/</link>
+				<guid isPermaLink="true">http://localhost:4000/2026-01-21-some-interesting-series/</guid>
+			</item>
+		
+	</channel>
 </rss>
