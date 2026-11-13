@@ -19,10 +19,9 @@ layout: null
 		{% assign feed_items = site.feed_items | default: 10 %}
 		{% for post in site.posts limit:feed_items %}
 			<item>
-				<title>{{ post.title | xml_escape }}</title>
-        {% if post.subtitle %}
-        <title>{{ post.subtitle | xml_escape }}</title>
-        {% endif %}
+				<title>{{ post.title | xml_escape }}{% if post.subtitle %}: {{ post.subtitle | xml_escape }}
+				{% endif %}
+				</title>
 				{% if post.author.name %}
 					<dc:creator>{{ post.author.name | xml_escape }}</dc:creator>
 				{% endif %}
