@@ -33,6 +33,12 @@ Peter Keep, Matthew Lee\\
 
 # Contributed Talks, Workshops, etc.
 
+* **Building Blocks for Active Learning: Getting Started with Doenet**\\
+Peter Keep, Anurag Katyal, Duane Nykamp\\
+*AMATYC Conference*, November 2026
+* **You Can't Just Say That**\\
+Peter Keep, Mark Lydon\\
+*AMATYC Conference*, November 2026
 * **Generative AI ∉ (Teaching ∪ Learning)**\\
 Peter Keep, Dan Matthews\\
 *Moraine Valley Community College, Faculty and Staff Development Day*, February 2026
